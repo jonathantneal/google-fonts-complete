@@ -10,38 +10,15 @@ var postcssProcessor = postcss();
 var promise = Promise.resolve();
 var userAgents = require('./user-agents.json');
 
-function getSortedObject(object) {
-	var sortedObject = {};
-
-	Object.keys(object).sort().forEach(function (key) {
-		if (object[key] instanceof Array || typeof object[key] !== 'object') {
-			sortedObject[key] = object[key];
-		} else {
-			sortedObject[key] = getSortedObject(object[key]);
-		}
-	});
-
-	return sortedObject;
-}
-
-function fontToPath(family, variant) {
-	return '/css?family=' + family.replace(/\s/g, '+') + ':' + variant;
-}
-
 function eachFont(font) {
 	var family = font.family;
-	var variants = font.variants;
+	var data = {};
 
-	delete font.family;
-	delete font.variants;
+	exports[family] = data;
 
-	font.variants = {};
-
-	exports[family] = font;
-
-	variants.forEach(function (variant) {
+	font.variants.forEach(function (variant) {
 		var host = 'fonts.googleapis.com';
-		var path = fontToPath(family, variant);
+		var path = '/css?family=' + family.replace(/\s/g, '+') + ':' + variant;
 
 		Object.keys(userAgents).forEach(function (format) {
 			var userAgent = userAgents[format];
@@ -78,21 +55,23 @@ function eachFont(font) {
 											fontStyle = decl.value;
 										});
 
-										font.variants[fontStyle] = font.variants[fontStyle] || {};
-										font.variants[fontStyle][fontWeight] = font.variants[fontStyle][fontWeight] || {
-											local: [],
-											url: {}
+										var fontVariant = fontStyle + ':' + fontWeight;
+
+										var fontURLs = data[fontVariant] = data[fontVariant] || {
+											local: []
 										};
 
 										rule.eachDecl('src', function (decl) {
 											postcss.list.comma(decl.value).forEach(function (value) {
 												value.replace(/(local|url)\((.+?)\)/g, function (match, type, path) {
+													path = /^(['"]).*\1$/.test(path) ? path.slice(1, -1) : path.replace(/^https?:/, '');
+
 													if (type === 'local') {
-														if (font.variants[fontStyle][fontWeight].local.indexOf(path) === -1) {
-															font.variants[fontStyle][fontWeight].local.push(path);
+														if (fontURLs.local.indexOf(path) === -1) {
+															fontURLs.local.push(path);
 														}
 													} else if (type === 'url') {
-														font.variants[fontStyle][fontWeight].url[format] = path;
+														fontURLs[format] = path;
 													}
 												});
 											});
@@ -116,12 +95,26 @@ function eachFont(font) {
 			});
 		});
 	});
-
-	return font;
 }
 
 function oncomplete() {
-	fs.writeFile('google-fonts.json', JSON.stringify(getSortedObject(exports), null, '\t'), function () {
+	var string = JSON.stringify(exports, null, '\t').replace(
+		/\[[\W\w]+?\]/g,
+		function (match) {
+			return match.replace(/[\n\t]+/g, '').replace(/,/g, ', ');
+		}
+	).replace(
+		/(eot|svg|ttf)": /g,
+		'$1":    '
+	).replace(
+		/(woff)": /g,
+		'$1":   '
+	).replace(
+		/(woff2)": /g,
+		'$1":  '
+	);
+
+	fs.writeFile('google-fonts.json', string, function () {
 		console.log('Operation complete.');
 	});
 }

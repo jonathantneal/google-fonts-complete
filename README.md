@@ -15,12 +15,14 @@ yields
 ``` json
 {
     "ABeeZee": {
-        "category": "sans-serif",
-        "lastModified": "2015-04-06",
-        "version": "v4",
-        "variants": {
+        "normal:400": {
+            "local": ["ABeeZee", "ABeeZee-Regular"],
+            "eot":    "//fonts.gstatic.com/s/abeezee/v4/mHe7YG9wQgrkYxToGNllew.eot",
+            "svg":    "//fonts.gstatic.com/l/font?kit=Q9Ho64D2EGNbyR7RUlvCNQ&skey=abecda27d5b3409a#ABeeZee",
+            "ttf":    "//fonts.gstatic.com/s/abeezee/v4/JYPhMn-3Xw-JGuyB-fEdNA.ttf",
             ...
-        }
+        },
+        ...
     },
     ...
 }
@@ -35,7 +37,7 @@ Use the [Google Fonts API] to create `api-response.json`.
 Then, use the generator to create `google-fonts.json`.
 
 ```sh
-node ./google-fonts-generator.js
+node google-fonts-generator.js
 ```
 
 [Google Fonts API]: https://developers.google.com/fonts/
