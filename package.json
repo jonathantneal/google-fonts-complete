@@ -15,6 +15,6 @@
 		"url": "https://github.com/jonathantneal/google-fonts-complete.git"
 	},
 	"dependencies": {
-		"postcss": "^4.1.16"
+		"postcss": "^5.2.6"
 	}
 }
