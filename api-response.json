@@ -1,13 +1,11 @@
-[
+{
+ "items": [
   {
    "family": "ABeeZee",
    "category": "sans-serif",
    "variants": [
     "regular",
     "italic"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v9",
    "lastModified": "2016-09-29"
@@ -17,9 +15,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-09-29"
@@ -34,11 +29,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "sinhala",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-10-06"
   },
@@ -47,10 +37,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -61,9 +47,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -72,9 +55,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -85,9 +65,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -96,9 +73,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -115,11 +89,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -128,10 +97,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -142,10 +107,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -154,10 +115,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -168,9 +125,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -180,10 +134,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin",
-    "hebrew"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -199,10 +149,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -216,10 +162,6 @@
     "700italic",
     "900",
     "900italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -243,11 +185,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v3",
    "lastModified": "2016-06-07"
   },
@@ -270,11 +207,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v3",
    "lastModified": "2016-06-07"
   },
@@ -283,10 +215,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -297,11 +225,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v5",
-   "lastModified": "2016-05-31"
+   "version": "v6",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Alice",
@@ -309,20 +234,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-06-07"
+   "version": "v8",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Alike",
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -332,9 +251,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -346,10 +262,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -358,9 +270,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -371,9 +280,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-06-07"
   },
@@ -382,10 +288,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -399,10 +301,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -411,10 +309,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -425,9 +319,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -436,10 +327,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -453,9 +340,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -466,12 +350,8 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v8",
-   "lastModified": "2016-05-31"
+   "version": "v9",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Amatica SC",
@@ -479,11 +359,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -493,9 +368,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -507,11 +379,6 @@
     "regular",
     "600",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -525,10 +392,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "arabic",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -539,11 +402,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -552,10 +410,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -566,10 +420,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -578,13 +428,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -595,9 +438,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -606,9 +446,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -622,12 +459,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic"
-   ],
    "version": "v9",
    "lastModified": "2016-06-07"
   },
@@ -636,9 +467,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -649,9 +477,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -660,9 +485,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -673,12 +495,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-06-07"
+   "version": "v8",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Arapey",
@@ -686,9 +504,6 @@
    "variants": [
     "regular",
     "italic"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -699,10 +514,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -711,10 +522,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -725,9 +532,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -736,10 +540,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -753,10 +553,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -766,10 +562,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "arabic",
-    "latin"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -787,12 +579,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "tamil"
-   ],
    "version": "v2",
    "lastModified": "2016-08-22"
   },
@@ -805,16 +591,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "hebrew",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v9",
    "lastModified": "2016-10-05"
   },
@@ -823,10 +599,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -837,21 +609,26 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
+  },
+  {
+   "family": "Arsenal",
+   "category": "sans-serif",
+   "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+   ],
+   "version": "v1",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Artifika",
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -865,9 +642,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-06-07"
   },
@@ -877,11 +651,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -897,11 +666,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v5",
    "lastModified": "2016-12-08"
   },
@@ -911,11 +675,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-05-31"
   },
@@ -924,9 +683,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -942,10 +698,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin",
-    "hebrew"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -956,9 +708,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -968,9 +717,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -986,12 +732,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1005,11 +745,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "bengali"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1018,9 +753,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -1031,9 +763,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -1042,10 +771,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1056,10 +781,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -1068,10 +789,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1082,10 +799,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -1094,10 +807,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -1113,9 +822,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -1129,9 +835,6 @@
     "italic",
     "700",
     "700italic"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1147,9 +850,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -1159,24 +859,23 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin",
-    "cyrillic"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
+  },
+  {
+   "family": "Bahiana",
+   "category": "display",
+   "variants": [
+    "regular"
+   ],
+   "version": "v1",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Baloo",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -1187,12 +886,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1201,12 +894,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "oriya"
    ],
    "version": "v1",
    "lastModified": "2016-08-19"
@@ -1217,12 +904,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "malayalam",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-08-19"
   },
@@ -1231,12 +912,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "bengali"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -1247,12 +922,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "gurmukhi"
-   ],
    "version": "v1",
    "lastModified": "2016-08-19"
   },
@@ -1261,12 +930,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "kannada",
-    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2016-08-19"
@@ -1277,12 +940,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "tamil"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1291,9 +948,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -1304,21 +958,23 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
+   "version": "v9",
+   "lastModified": "2017-01-11"
+  },
+  {
+   "family": "Barrio",
+   "category": "display",
+   "variants": [
+    "regular"
    ],
-   "version": "v8",
-   "lastModified": "2016-05-31"
+   "version": "v1",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Basic",
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -1330,9 +986,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -1341,9 +994,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -1354,9 +1004,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -1366,9 +1013,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -1377,10 +1021,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1393,10 +1033,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -1405,9 +1041,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -1418,10 +1051,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -1431,21 +1060,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-06-07"
+   "version": "v8",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Bigelow Rules",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1456,9 +1078,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -1468,10 +1087,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -1480,10 +1095,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -1498,10 +1109,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1514,10 +1121,6 @@
     "regular",
     "700",
     "800"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -1534,11 +1137,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -1550,22 +1148,14 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v10",
-   "lastModified": "2016-12-01"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Black Ops One",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -1576,9 +1166,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -1587,9 +1174,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -1600,9 +1184,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -1611,9 +1192,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -1624,10 +1202,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -1636,9 +1210,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -1649,10 +1220,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -1661,10 +1228,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -1675,10 +1238,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -1687,9 +1246,6 @@
    "category": "display",
    "variants": [
     "300"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -1701,10 +1257,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -1713,11 +1265,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -1728,11 +1275,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v2",
    "lastModified": "2016-06-20"
   },
@@ -1741,11 +1283,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -1756,11 +1293,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v2",
    "lastModified": "2016-06-20"
   },
@@ -1769,11 +1301,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -1784,10 +1311,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -1796,10 +1319,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -1817,11 +1336,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v10",
    "lastModified": "2016-12-08"
   },
@@ -1834,11 +1348,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v9",
    "lastModified": "2016-12-08"
   },
@@ -1849,20 +1358,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v9",
-   "lastModified": "2016-05-31"
+   "version": "v10",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Caesar Dressing",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -1872,9 +1375,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -1890,11 +1390,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -1903,9 +1398,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-10-05"
@@ -1919,11 +1411,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -1933,9 +1420,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -1944,9 +1428,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -1960,9 +1441,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -1971,10 +1449,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -1985,10 +1459,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -1997,10 +1467,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -2013,12 +1479,6 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -2027,9 +1487,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -2040,9 +1497,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -2052,9 +1506,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -2063,9 +1514,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-06-07"
@@ -2084,11 +1532,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "tamil"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -2101,12 +1544,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -2117,10 +1554,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v2",
    "lastModified": "2016-05-31"
   },
@@ -2129,10 +1562,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v2",
    "lastModified": "2016-05-31"
@@ -2143,9 +1572,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-06-07"
   },
@@ -2154,10 +1580,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -2174,11 +1596,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
-   ],
    "version": "v2",
    "lastModified": "2016-06-20"
   },
@@ -2189,9 +1606,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -2200,10 +1614,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -2218,10 +1628,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -2232,10 +1638,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -2244,10 +1646,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -2258,10 +1656,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -2271,9 +1665,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -2282,9 +1673,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -2296,10 +1684,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -2308,9 +1692,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-10-05"
@@ -2321,10 +1702,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -2332,28 +1709,23 @@
    "family": "Chivo",
    "category": "sans-serif",
    "variants": [
+    "300",
+    "300italic",
     "regular",
     "italic",
+    "700",
+    "700italic",
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Chonburi",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -2366,9 +1738,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -2380,9 +1749,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -2391,10 +1757,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -2406,10 +1768,6 @@
     "regular",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v11",
    "lastModified": "2016-05-31"
   },
@@ -2418,10 +1776,6 @@
    "category": "sans-serif",
    "variants": [
     "800"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v9",
    "lastModified": "2016-05-31"
@@ -2433,10 +1787,6 @@
     "300",
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -2446,12 +1796,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese",
-    "tamil"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -2460,10 +1804,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -2476,24 +1816,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
-   "version": "v7",
-   "lastModified": "2016-06-07"
+   "version": "v9",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Coming Soon",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -2504,10 +1834,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -2516,10 +1842,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -2531,9 +1853,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -2542,9 +1861,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -2555,9 +1871,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -2566,9 +1879,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -2579,9 +1889,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -2591,10 +1898,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v9",
    "lastModified": "2016-05-31"
@@ -2614,14 +1917,8 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Cormorant Garamond",
@@ -2638,14 +1935,8 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Cormorant Infant",
@@ -2662,14 +1953,8 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Cormorant SC",
@@ -2681,14 +1966,8 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Cormorant Unicase",
@@ -2700,14 +1979,8 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Cormorant Upright",
@@ -2719,23 +1992,14 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-06-20"
+   "version": "v3",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Courgette",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -2749,16 +2013,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "hebrew",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v10",
    "lastModified": "2016-10-05"
   },
@@ -2769,9 +2023,6 @@
     "regular",
     "900"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -2780,9 +2031,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -2793,9 +2041,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-10-05"
   },
@@ -2804,9 +2049,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -2817,10 +2059,6 @@
    "variants": [
     "regular",
     "italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -2836,9 +2074,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -2848,10 +2083,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -2860,9 +2091,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -2876,23 +2104,14 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Cutive",
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -2903,10 +2122,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-12-08"
   },
@@ -2915,9 +2130,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -2929,20 +2141,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Dangrek",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -2955,12 +2161,6 @@
     "500",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -2969,9 +2169,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -2982,9 +2179,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -2993,11 +2187,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v3",
    "lastModified": "2016-05-31"
@@ -3008,9 +2197,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -3019,9 +2205,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -3033,9 +2216,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -3044,9 +2224,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -3057,10 +2234,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -3069,10 +2242,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -3083,10 +2252,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3096,26 +2261,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v10",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Diplomata",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -3125,10 +2278,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -3140,10 +2289,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3152,10 +2297,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -3166,10 +2307,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -3178,9 +2315,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -3197,10 +2331,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -3209,10 +2339,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -3224,9 +2350,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -3235,9 +2358,6 @@
    "category": "monospace",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-10-05"
@@ -3251,9 +2371,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -3262,10 +2379,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v9",
    "lastModified": "2016-06-07"
@@ -3276,10 +2389,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -3288,13 +2397,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -3305,10 +2407,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3317,10 +2415,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -3334,10 +2428,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3350,11 +2440,6 @@
     "600",
     "700",
     "800"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -3371,11 +2456,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -3388,11 +2468,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "arabic",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -3401,9 +2476,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -3415,10 +2487,6 @@
     "regular",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -3429,10 +2497,6 @@
     "regular",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3441,10 +2505,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -3455,10 +2515,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3468,9 +2524,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -3479,10 +2532,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -3494,10 +2543,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -3506,10 +2551,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -3520,10 +2561,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3533,10 +2570,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3545,10 +2578,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -3576,10 +2605,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3606,11 +2631,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v3",
    "lastModified": "2016-05-31"
   },
@@ -3627,9 +2647,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-06-07"
   },
@@ -3640,23 +2657,14 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
-   "lastModified": "2016-05-31"
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Farsan",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati",
-    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -3667,9 +2675,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -3678,9 +2683,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -3691,9 +2693,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -3702,9 +2701,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -3715,10 +2711,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3727,9 +2719,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-06-07"
@@ -3740,9 +2729,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -3751,10 +2737,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -3765,10 +2747,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -3778,9 +2756,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -3789,50 +2764,95 @@
    "category": "monospace",
    "variants": [
     "regular",
+    "500",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
-   "version": "v4",
-   "lastModified": "2016-05-31"
+   "version": "v5",
+   "lastModified": "2017-01-10"
   },
   {
    "family": "Fira Sans",
    "category": "sans-serif",
    "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
     "300",
     "300italic",
     "regular",
     "italic",
     "500",
     "500italic",
+    "600",
+    "600italic",
     "700",
-    "700italic"
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
+   "version": "v7",
+   "lastModified": "2017-01-10"
+  },
+  {
+   "family": "Fira Sans Condensed",
+   "category": "sans-serif",
+   "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
    ],
-   "version": "v6",
-   "lastModified": "2016-05-31"
+   "version": "v1",
+   "lastModified": "2017-01-10"
+  },
+  {
+   "family": "Fira Sans Extra Condensed",
+   "category": "sans-serif",
+   "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
+   ],
+   "version": "v1",
+   "lastModified": "2017-01-10"
   },
   {
    "family": "Fjalla One",
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -3842,9 +2862,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -3856,9 +2873,6 @@
     "300",
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -3867,9 +2881,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -3881,10 +2892,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-27"
   },
@@ -3893,9 +2900,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -3906,12 +2910,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -3921,12 +2919,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v9",
-   "lastModified": "2016-06-07"
+   "version": "v10",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Frank Ruhl Libre",
@@ -3938,11 +2932,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -3951,10 +2940,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -3965,9 +2950,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -3976,9 +2958,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -3989,9 +2968,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -4000,10 +2976,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -4014,9 +2986,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -4025,10 +2994,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -4039,9 +3004,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4050,9 +3012,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "greek"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -4066,9 +3025,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "greek"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -4078,12 +3034,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v4",
-   "lastModified": "2016-05-31"
+   "version": "v5",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Gafata",
@@ -4091,22 +3043,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
-   "lastModified": "2016-06-07"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Galada",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin",
-    "bengali"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -4117,9 +3061,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4128,10 +3069,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4145,10 +3082,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -4161,10 +3094,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -4175,9 +3104,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-06-07"
   },
@@ -4186,9 +3112,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4199,9 +3122,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4210,9 +3130,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4223,10 +3140,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v3",
    "lastModified": "2016-05-31"
   },
@@ -4235,10 +3148,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4249,9 +3158,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4260,10 +3166,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4275,11 +3177,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -4288,9 +3185,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -4301,9 +3195,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -4312,9 +3203,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -4326,9 +3214,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4337,9 +3222,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4350,9 +3232,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4361,10 +3240,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4375,9 +3250,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -4386,10 +3258,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4400,10 +3268,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4412,10 +3276,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -4428,10 +3288,6 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4441,10 +3297,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4453,10 +3305,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -4471,11 +3319,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-05-31"
   },
@@ -4484,10 +3327,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -4498,10 +3337,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4511,10 +3346,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -4523,9 +3354,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -4537,9 +3365,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -4548,10 +3373,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -4562,10 +3383,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "arabic",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -4574,10 +3391,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4594,10 +3407,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin",
-    "hebrew"
-   ],
    "version": "v2",
    "lastModified": "2016-06-20"
   },
@@ -4607,9 +3416,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4618,10 +3424,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4636,11 +3438,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v6",
    "lastModified": "2016-06-02"
   },
@@ -4653,11 +3450,6 @@
     "500",
     "600",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "telugu",
-    "latin"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -4672,11 +3464,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "tamil"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -4689,11 +3476,6 @@
     "500",
     "600",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "bengali"
    ],
    "version": "v2",
    "lastModified": "2016-06-02"
@@ -4708,11 +3490,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
-   ],
    "version": "v2",
    "lastModified": "2016-06-02"
   },
@@ -4721,9 +3498,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -4734,9 +3508,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -4745,9 +3516,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-12-08"
@@ -4759,9 +3527,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4770,9 +3535,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4784,9 +3546,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4795,9 +3554,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4809,9 +3565,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4820,9 +3573,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4834,9 +3584,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4845,9 +3592,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4859,9 +3603,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -4870,9 +3611,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -4883,9 +3621,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -4895,9 +3630,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -4906,10 +3638,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4921,23 +3649,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v15",
-   "lastModified": "2016-12-08"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Inder",
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -4948,9 +3667,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -4960,10 +3676,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -4980,11 +3692,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -4993,9 +3700,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -5009,12 +3713,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v10",
    "lastModified": "2016-05-31"
   },
@@ -5023,9 +3721,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-10-27"
@@ -5036,10 +3731,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5048,12 +3739,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -5064,9 +3749,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -5075,9 +3757,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -5089,11 +3768,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-06-07"
   },
@@ -5102,10 +3776,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5116,10 +3786,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5129,10 +3795,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -5141,11 +3803,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -5165,10 +3822,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -5187,9 +3840,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5198,10 +3848,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5214,11 +3860,6 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -5227,9 +3868,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -5240,10 +3878,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -5252,9 +3886,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5268,13 +3899,6 @@
     "500",
     "600"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -5283,9 +3907,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-10-05"
@@ -5296,10 +3917,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -5309,10 +3926,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -5325,11 +3938,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v7",
    "lastModified": "2016-06-07"
   },
@@ -5339,9 +3947,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -5369,12 +3974,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -5385,9 +3984,6 @@
     "300",
     "regular",
     "700"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v3",
    "lastModified": "2016-05-31"
@@ -5400,10 +3996,6 @@
     "italic",
     "700",
     "700italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -5418,11 +4010,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -5431,11 +4018,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -5446,10 +4028,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -5458,11 +4036,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "tamil"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -5473,10 +4046,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -5485,9 +4054,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v3",
    "lastModified": "2016-05-31"
@@ -5498,10 +4064,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -5511,11 +4073,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5524,9 +4081,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -5541,11 +4095,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -5554,9 +4103,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v9",
    "lastModified": "2016-05-31"
@@ -5571,11 +4117,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -5584,9 +4125,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5597,10 +4135,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -5609,10 +4143,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5623,9 +4153,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v10",
    "lastModified": "2016-05-31"
   },
@@ -5634,9 +4161,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -5649,9 +4173,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -5660,9 +4181,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -5673,10 +4191,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -5685,11 +4199,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -5700,11 +4209,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -5714,23 +4218,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "devanagari"
-   ],
-   "version": "v1",
-   "lastModified": "2016-05-31"
+   "version": "v2",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "La Belle Aurore",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -5745,11 +4240,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-06-07"
   },
@@ -5758,10 +4248,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "telugu",
-    "latin"
    ],
    "version": "v3",
    "lastModified": "2016-05-31"
@@ -5772,12 +4258,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -5787,10 +4267,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5799,10 +4275,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "arabic",
-    "latin"
    ],
    "version": "v10",
    "lastModified": "2016-05-31"
@@ -5822,21 +4294,14 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v11",
-   "lastModified": "2016-12-01"
+   "version": "v13",
+   "lastModified": "2017-02-09"
   },
   {
    "family": "League Script",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -5847,9 +4312,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -5858,11 +4320,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5875,10 +4332,6 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -5887,9 +4340,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -5903,12 +4353,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v2",
    "lastModified": "2016-06-20"
   },
@@ -5919,10 +4363,6 @@
     "regular",
     "italic",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5950,10 +4390,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -5964,10 +4400,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -5976,10 +4408,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -5990,10 +4418,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6002,10 +4426,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -6017,23 +4437,14 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
-   "lastModified": "2016-05-31"
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Lobster",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "vietnamese"
    ],
    "version": "v18",
    "lastModified": "2016-05-31"
@@ -6047,9 +4458,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -6058,9 +4466,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -6071,9 +4476,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6083,9 +4485,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6094,9 +4493,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6110,22 +4506,14 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v9",
-   "lastModified": "2016-06-07"
+   "version": "v10",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Love Ya Like A Sister",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -6136,9 +4524,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6148,10 +4533,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6160,9 +4541,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -6174,9 +4552,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6185,9 +4560,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6198,9 +4570,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -6209,9 +4578,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6225,10 +4591,6 @@
     "500",
     "900"
    ],
-   "subsets": [
-    "arabic",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -6239,10 +4601,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6251,9 +4609,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -6269,12 +4624,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -6283,9 +4632,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -6296,10 +4642,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6308,10 +4650,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "telugu",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6322,10 +4660,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6334,10 +4668,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6348,11 +4678,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -6361,10 +4686,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -6375,9 +4696,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6386,11 +4704,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -6407,11 +4720,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -6427,11 +4735,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-05-31"
   },
@@ -6444,9 +4747,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6457,9 +4757,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -6468,9 +4765,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -6484,21 +4778,14 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "McLaren",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6509,9 +4796,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -6520,10 +4804,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -6534,9 +4814,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6545,10 +4822,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin",
-    "tamil"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -6559,9 +4832,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -6570,10 +4840,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6585,10 +4851,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6597,9 +4859,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -6617,14 +4876,8 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
-   "version": "v13",
-   "lastModified": "2016-06-07"
+   "version": "v15",
+   "lastModified": "2017-02-06"
   },
   {
    "family": "Merriweather Sans",
@@ -6639,10 +4892,6 @@
     "800",
     "800italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -6651,9 +4900,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v9",
    "lastModified": "2016-05-31"
@@ -6664,10 +4910,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6676,10 +4918,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -6690,20 +4928,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v9",
-   "lastModified": "2016-12-08"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Michroma",
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -6714,10 +4946,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6726,9 +4954,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v10",
    "lastModified": "2016-05-31"
@@ -6739,9 +4964,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v11",
    "lastModified": "2016-05-31"
   },
@@ -6750,9 +4972,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -6763,11 +4982,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -6781,11 +4995,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -6794,10 +5003,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -6813,12 +5018,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -6827,11 +5026,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v2",
    "lastModified": "2016-05-11"
@@ -6842,10 +5036,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6854,11 +5044,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -6869,10 +5054,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -6881,10 +5062,6 @@
    "category": "handwriting",
    "variants": [
     "italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -6896,21 +5073,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
-   "lastModified": "2016-12-01"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Monofett",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -6921,9 +5091,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -6932,10 +5099,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -6946,9 +5109,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -6958,9 +5118,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -6968,27 +5125,53 @@
    "family": "Montserrat",
    "category": "sans-serif",
    "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
+    "300",
+    "300italic",
     "regular",
-    "700"
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v10",
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Montserrat Alternates",
    "category": "sans-serif",
    "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
+    "300",
+    "300italic",
     "regular",
-    "700"
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v4",
-   "lastModified": "2016-05-31"
+   "version": "v7",
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Montserrat Subrayada",
@@ -6997,20 +5180,14 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
-   "lastModified": "2016-05-31"
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Moul",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7020,9 +5197,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v9",
    "lastModified": "2016-05-31"
@@ -7034,9 +5208,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-10-05"
   },
@@ -7045,10 +5216,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7059,10 +5226,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7071,10 +5234,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -7085,10 +5244,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7098,10 +5253,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -7110,10 +5261,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -7129,11 +5276,6 @@
     "600",
     "700",
     "800"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -7157,23 +5299,14 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v10",
-   "lastModified": "2016-12-08"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Mystery Quest",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7184,10 +5317,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -7196,10 +5325,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin",
-    "cyrillic"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7215,10 +5340,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-12-08"
   },
@@ -7227,10 +5348,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -7242,10 +5359,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v13",
    "lastModified": "2016-05-31"
   },
@@ -7255,10 +5368,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -7267,9 +5376,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -7283,9 +5389,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -7296,9 +5399,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-10-05"
   },
@@ -7307,10 +5407,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7321,10 +5417,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7333,9 +5425,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -7349,13 +5438,8 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v6",
-   "lastModified": "2016-05-31"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Noto Sans",
@@ -7365,16 +5449,6 @@
     "italic",
     "700",
     "700italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese",
-    "devanagari"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -7388,15 +5462,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v4",
    "lastModified": "2016-10-05"
   },
@@ -7405,9 +5470,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7418,9 +5480,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7429,10 +5488,6 @@
    "category": "monospace",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin",
-    "greek"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -7443,9 +5498,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7454,9 +5506,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7467,9 +5516,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7478,9 +5524,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7491,9 +5534,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7502,9 +5542,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -7528,11 +5565,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v8",
    "lastModified": "2016-12-08"
   },
@@ -7555,22 +5587,14 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
-   "version": "v1",
-   "lastModified": "2016-12-08"
+   "version": "v2",
+   "lastModified": "2017-01-25"
   },
   {
    "family": "Odor Mean Chey",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -7580,9 +5604,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7595,21 +5616,14 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Oldenburg",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -7621,10 +5635,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7634,10 +5644,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7657,15 +5663,6 @@
     "800",
     "800italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v13",
    "lastModified": "2016-10-05"
   },
@@ -7677,15 +5674,6 @@
     "300italic",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v10",
    "lastModified": "2016-10-05"
   },
@@ -7694,12 +5682,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -7713,9 +5695,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -7726,10 +5705,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -7738,10 +5713,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7752,9 +5723,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7762,25 +5730,21 @@
    "family": "Oswald",
    "category": "sans-serif",
    "variants": [
+    "200",
     "300",
     "regular",
+    "500",
+    "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v11",
-   "lastModified": "2016-12-01"
+   "version": "v13",
+   "lastModified": "2017-02-14"
   },
   {
    "family": "Over the Rainbow",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -7796,10 +5760,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -7809,21 +5769,50 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
+  },
+  {
+   "family": "Overpass",
+   "category": "sans-serif",
+   "variants": [
+    "100",
+    "100italic",
+    "200",
+    "200italic",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
+   ],
+   "version": "v1",
+   "lastModified": "2017-01-11"
+  },
+  {
+   "family": "Overpass Mono",
+   "category": "monospace",
+   "variants": [
+    "300",
+    "regular",
+    "600",
+    "700"
+   ],
+   "version": "v2",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Ovo",
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -7836,10 +5825,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -7849,10 +5834,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -7861,12 +5842,6 @@
    "category": "monospace",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -7880,12 +5855,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7896,12 +5865,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -7911,12 +5874,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -7930,12 +5887,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7946,12 +5897,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -7961,13 +5906,18 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
+   "version": "v9",
+   "lastModified": "2017-01-20"
+  },
+  {
+   "family": "Padauk",
+   "category": "sans-serif",
+   "variants": [
+    "regular",
+    "700"
    ],
-   "version": "v8",
-   "lastModified": "2016-12-08"
+   "version": "v3",
+   "lastModified": "2017-01-10"
   },
   {
    "family": "Palanquin",
@@ -7981,11 +5931,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -7998,22 +5943,23 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
+  },
+  {
+   "family": "Pangolin",
+   "category": "handwriting",
+   "variants": [
+    "regular"
+   ],
+   "version": "v1",
+   "lastModified": "2017-02-14"
   },
   {
    "family": "Paprika",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8024,10 +5970,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8036,10 +5978,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-06-07"
@@ -8052,10 +5990,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -8064,10 +5998,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8078,11 +6008,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v10",
    "lastModified": "2016-05-31"
   },
@@ -8091,11 +6016,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8106,13 +6026,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "cyrillic",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8121,9 +6034,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -8134,11 +6044,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "tamil"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8147,9 +6052,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -8160,10 +6062,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8172,10 +6070,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8186,9 +6080,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-10-05"
   },
@@ -8198,10 +6089,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8210,9 +6097,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -8226,22 +6110,14 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Piedra",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -8252,9 +6128,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -8264,10 +6137,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8276,10 +6145,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-06-07"
@@ -8291,13 +6156,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -8306,10 +6164,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -8325,11 +6179,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v10",
    "lastModified": "2016-06-07"
   },
@@ -8344,11 +6193,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -8357,24 +6201,19 @@
    "category": "serif",
    "variants": [
     "regular",
-    "700"
+    "500",
+    "600",
+    "700",
+    "800"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v8",
-   "lastModified": "2016-05-31"
+   "version": "v10",
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Poiret One",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8384,9 +6223,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -8398,9 +6234,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -8410,9 +6243,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -8421,10 +6251,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8439,11 +6265,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-06-07"
   },
@@ -8453,9 +6274,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -8464,9 +6282,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -8478,11 +6293,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v2",
    "lastModified": "2016-05-31"
   },
@@ -8492,20 +6302,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v6",
-   "lastModified": "2016-05-31"
+   "version": "v7",
+   "lastModified": "2017-01-19"
   },
   {
    "family": "Preahvihear",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "khmer"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -8516,14 +6320,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "greek",
-    "cyrillic"
-   ],
-   "version": "v4",
-   "lastModified": "2016-05-31"
+   "version": "v5",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Pridi",
@@ -8536,12 +6334,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8550,10 +6342,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8564,11 +6352,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
-   "lastModified": "2016-05-31"
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Prompt",
@@ -8593,12 +6378,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8607,11 +6386,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -8631,10 +6405,6 @@
     "800",
     "800italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8647,9 +6417,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -8659,10 +6426,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -8671,10 +6434,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -8688,9 +6447,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -8700,10 +6456,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -8717,10 +6469,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -8729,9 +6477,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -8745,11 +6490,6 @@
     "500",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v6",
    "lastModified": "2016-12-08"
   },
@@ -8758,10 +6498,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8772,10 +6508,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -8784,10 +6516,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8798,10 +6526,6 @@
    "variants": [
     "regular",
     "italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v9",
    "lastModified": "2016-06-07"
@@ -8816,11 +6540,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -8829,11 +6548,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "arabic",
-    "latin-ext",
-    "latin"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -8861,10 +6575,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v11",
    "lastModified": "2016-06-07"
   },
@@ -8873,10 +6583,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -8887,10 +6593,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -8899,10 +6601,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "telugu",
-    "latin"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -8916,10 +6614,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8928,10 +6622,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -8942,10 +6632,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -8954,9 +6640,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -8967,11 +6650,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -8986,11 +6664,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -8999,9 +6672,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -9012,10 +6682,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v3",
    "lastModified": "2016-05-31"
   },
@@ -9024,9 +6690,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -9037,10 +6700,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "arabic",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-08-22"
   },
@@ -9049,9 +6708,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -9062,10 +6718,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9074,11 +6726,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -9089,10 +6736,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -9101,10 +6744,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -9115,10 +6754,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -9127,10 +6762,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -9152,17 +6783,8 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v15",
-   "lastModified": "2016-11-30"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Roboto Condensed",
@@ -9174,15 +6796,6 @@
     "italic",
     "700",
     "700italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
    ],
    "version": "v13",
    "lastModified": "2016-10-05"
@@ -9202,15 +6815,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v4",
    "lastModified": "2016-10-05"
   },
@@ -9223,15 +6827,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -9240,9 +6835,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -9253,9 +6845,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -9263,24 +6852,24 @@
    "family": "Rokkitt",
    "category": "serif",
    "variants": [
+    "100",
+    "200",
+    "300",
     "regular",
-    "700"
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v10",
-   "lastModified": "2016-05-31"
+   "version": "v11",
+   "lastModified": "2017-02-09"
   },
   {
    "family": "Romanesco",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -9292,12 +6881,8 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v5",
-   "lastModified": "2016-05-31"
+   "version": "v6",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Rosario",
@@ -9307,9 +6892,6 @@
     "italic",
     "700",
     "700italic"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v11",
    "lastModified": "2016-05-31"
@@ -9321,10 +6903,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9334,9 +6912,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -9345,11 +6920,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v2",
    "lastModified": "2016-05-31"
@@ -9369,14 +6939,8 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew",
-    "cyrillic"
-   ],
-   "version": "v3",
-   "lastModified": "2016-12-08"
+   "version": "v4",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Rubik Mono One",
@@ -9384,26 +6948,7 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v5",
-   "lastModified": "2016-05-31"
-  },
-  {
-   "family": "Rubik One",
-   "category": "sans-serif",
-   "variants": [
-    "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v4",
    "lastModified": "2016-05-31"
   },
   {
@@ -9413,10 +6958,6 @@
     "regular",
     "700",
     "900"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -9428,10 +6969,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9440,10 +6977,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -9454,10 +6987,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9466,10 +6995,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -9480,11 +7005,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -9493,11 +7013,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -9508,10 +7023,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -9521,10 +7032,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -9533,10 +7040,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -9548,10 +7051,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -9561,10 +7060,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -9573,9 +7068,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -9587,10 +7079,6 @@
     "regular",
     "italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9600,24 +7088,24 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
   {
-   "family": "Sansita One",
-   "category": "display",
+   "family": "Sansita",
+   "category": "sans-serif",
    "variants": [
-    "regular"
+    "regular",
+    "italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v6",
-   "lastModified": "2016-05-31"
+   "version": "v1",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "Sarala",
@@ -9625,11 +7113,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -9639,10 +7122,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -9658,11 +7137,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -9671,9 +7145,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -9687,13 +7158,8 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v4",
-   "lastModified": "2016-05-31"
+   "version": "v5",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Scheherazade",
@@ -9701,10 +7167,6 @@
    "variants": [
     "regular",
     "700"
-   ],
-   "subsets": [
-    "arabic",
-    "latin"
    ],
    "version": "v12",
    "lastModified": "2016-05-31"
@@ -9715,9 +7177,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -9726,10 +7185,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v2",
    "lastModified": "2016-06-20"
@@ -9740,10 +7195,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9752,11 +7203,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -9767,10 +7213,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9779,11 +7221,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -9794,9 +7231,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -9806,10 +7240,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -9818,9 +7248,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -9834,10 +7261,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -9846,9 +7269,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-12-08"
@@ -9859,9 +7279,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -9870,10 +7287,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -9884,9 +7297,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -9895,11 +7305,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "gujarati"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -9910,9 +7315,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -9922,11 +7324,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v6",
-   "lastModified": "2016-05-31"
+   "version": "v7",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Signika",
@@ -9936,10 +7335,6 @@
     "regular",
     "600",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -9953,10 +7348,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -9969,10 +7360,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -9983,10 +7370,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -9996,9 +7379,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10007,9 +7387,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-06-07"
@@ -10021,10 +7398,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -10033,10 +7406,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v3",
    "lastModified": "2016-05-31"
@@ -10047,21 +7416,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v3",
-   "lastModified": "2016-12-01"
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Slackey",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -10072,9 +7434,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -10083,9 +7442,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -10097,10 +7453,6 @@
     "regular",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -10109,9 +7461,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -10122,10 +7471,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-06-07"
   },
@@ -10134,9 +7479,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -10147,9 +7489,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10158,10 +7497,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -10172,10 +7507,6 @@
    "variants": [
     "regular",
     "italic"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -10191,10 +7522,6 @@
     "600",
     "700",
     "900"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -10216,11 +7543,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -10231,10 +7553,6 @@
     "regular",
     "600",
     "700"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -10248,11 +7566,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -10261,9 +7574,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-10-05"
@@ -10274,9 +7584,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10285,10 +7592,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-06-07"
@@ -10299,9 +7602,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-06-07"
   },
@@ -10310,9 +7610,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -10323,10 +7620,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -10335,12 +7628,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -10351,10 +7638,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -10363,11 +7646,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v8",
    "lastModified": "2016-10-10"
@@ -10379,9 +7657,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -10391,10 +7666,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10403,10 +7674,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -10418,10 +7685,6 @@
     "300",
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-06-07"
   },
@@ -10430,9 +7693,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -10443,9 +7703,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -10454,11 +7711,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "hebrew"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -10470,11 +7722,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-06-07"
   },
@@ -10484,9 +7731,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -10495,9 +7739,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-06-07"
@@ -10509,11 +7750,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -10522,10 +7758,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "telugu",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -10536,10 +7768,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v3",
    "lastModified": "2016-05-31"
   },
@@ -10549,9 +7777,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v9",
    "lastModified": "2016-05-31"
   },
@@ -10560,9 +7785,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -10574,9 +7796,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-10-05"
   },
@@ -10587,9 +7806,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-06-07"
   },
@@ -10599,9 +7815,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "khmer"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -10610,10 +7823,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-06-07"
@@ -10641,12 +7850,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -10660,11 +7863,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10673,10 +7871,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-12-08"
@@ -10687,10 +7881,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "telugu",
-    "latin"
-   ],
    "version": "v3",
    "lastModified": "2016-05-31"
   },
@@ -10699,11 +7889,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -10714,10 +7899,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -10726,9 +7907,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -10740,9 +7918,6 @@
     "regular",
     "700",
     "900"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -10757,11 +7932,6 @@
     "700",
     "800"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -10770,10 +7940,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "telugu",
-    "latin"
    ],
    "version": "v1",
    "lastModified": "2016-05-31"
@@ -10787,16 +7953,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "hebrew",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext",
-    "vietnamese"
-   ],
    "version": "v9",
    "lastModified": "2016-10-05"
   },
@@ -10805,10 +7961,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v4",
    "lastModified": "2016-05-31"
@@ -10829,10 +7981,6 @@
     "700italic",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -10841,9 +7989,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -10871,12 +8016,6 @@
     "900",
     "900italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "thai",
-    "vietnamese"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -10885,10 +8024,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-12-08"
@@ -10901,9 +8036,6 @@
     "italic",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -10913,10 +8045,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -10925,9 +8053,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -10945,14 +8070,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v9",
    "lastModified": "2016-06-03"
   },
@@ -10961,14 +8078,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
    ],
    "version": "v7",
    "lastModified": "2016-06-03"
@@ -10982,14 +8091,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin-ext",
-    "greek-ext",
-    "latin",
-    "greek",
-    "cyrillic",
-    "cyrillic-ext"
-   ],
    "version": "v6",
    "lastModified": "2016-06-03"
   },
@@ -10998,9 +8099,6 @@
    "category": "serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-10-05"
@@ -11011,9 +8109,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -11022,11 +8117,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
    ],
    "version": "v5",
    "lastModified": "2016-06-07"
@@ -11037,10 +8127,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -11050,9 +8136,6 @@
    "variants": [
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -11061,9 +8144,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -11075,9 +8155,6 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-10-05"
   },
@@ -11087,9 +8164,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -11097,24 +8171,19 @@
    "family": "Unna",
    "category": "serif",
    "variants": [
-    "regular"
+    "regular",
+    "italic",
+    "700",
+    "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
-   "version": "v8",
-   "lastModified": "2016-05-31"
+   "version": "v9",
+   "lastModified": "2017-01-26"
   },
   {
    "family": "VT323",
    "category": "monospace",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "vietnamese"
    ],
    "version": "v8",
    "lastModified": "2016-12-08"
@@ -11125,10 +8194,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -11137,10 +8202,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -11151,21 +8212,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin",
-    "hebrew"
-   ],
-   "version": "v7",
-   "lastModified": "2016-06-02"
+   "version": "v8",
+   "lastModified": "2017-01-11"
   },
   {
    "family": "Vast Shadow",
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -11179,11 +8233,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -11192,9 +8241,6 @@
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -11205,9 +8251,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -11217,10 +8260,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v5",
    "lastModified": "2016-05-31"
   },
@@ -11229,10 +8268,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -11246,9 +8281,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v8",
    "lastModified": "2016-05-31"
   },
@@ -11261,9 +8293,6 @@
     "700",
     "700italic"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   },
@@ -11272,9 +8301,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -11285,9 +8311,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v7",
    "lastModified": "2016-05-31"
   },
@@ -11296,9 +8319,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v8",
    "lastModified": "2016-05-31"
@@ -11309,9 +8329,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -11320,10 +8337,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin"
    ],
    "version": "v6",
    "lastModified": "2016-05-31"
@@ -11334,10 +8347,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -11347,10 +8356,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v4",
    "lastModified": "2016-05-31"
   },
@@ -11359,9 +8364,6 @@
    "category": "sans-serif",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v7",
    "lastModified": "2016-05-31"
@@ -11380,10 +8382,6 @@
     "800",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v2",
    "lastModified": "2016-06-07"
   },
@@ -11396,12 +8394,8 @@
     "regular",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
-   "version": "v7",
-   "lastModified": "2016-05-31"
+   "version": "v8",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Yantramanav",
@@ -11414,11 +8408,6 @@
     "700",
     "900"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
-   ],
    "version": "v1",
    "lastModified": "2016-05-31"
   },
@@ -11427,11 +8416,6 @@
    "category": "display",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "devanagari"
    ],
    "version": "v1",
    "lastModified": "2016-06-20"
@@ -11442,9 +8426,6 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-10-05"
   },
@@ -11454,22 +8435,14 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin",
-    "cyrillic"
-   ],
-   "version": "v10",
-   "lastModified": "2016-05-31"
+   "version": "v11",
+   "lastModified": "2017-01-20"
   },
   {
    "family": "Yesteryear",
    "category": "handwriting",
    "variants": [
     "regular"
-   ],
-   "subsets": [
-    "latin"
    ],
    "version": "v5",
    "lastModified": "2016-05-31"
@@ -11484,10 +8457,6 @@
     "600",
     "700"
    ],
-   "subsets": [
-    "latin-ext",
-    "latin"
-   ],
    "version": "v1",
    "lastModified": "2016-06-20"
   },
@@ -11497,10 +8466,8 @@
    "variants": [
     "regular"
    ],
-   "subsets": [
-    "latin"
-   ],
    "version": "v6",
    "lastModified": "2016-05-31"
   }
-]
+ ]
+}

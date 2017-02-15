@@ -2,7 +2,7 @@
 // alternatively available from: https://developers.google.com/apis-explorer/?hl=en_US#p/webfonts/v1/webfonts.webfonts.list?fields=items%252Ffiles&_h=4
 
 var exports = {};
-var fonts = require('./api-response.json');
+var fonts = require('./api-response.json').items;
 var fs = require('fs');
 var http = require('http');
 var postcss = require('postcss');
