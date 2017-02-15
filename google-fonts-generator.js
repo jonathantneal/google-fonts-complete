@@ -1,4 +1,4 @@
-// api-response.json retrieved from: https://www.googleapis.com/webfonts/v1/webfonts?fields=items(category%2Cfamily%2ClastModified%2Cvariants%2Cversion)&key={YOUR_API_KEY}
+// api-response.json retrieved from: https://www.googleapis.com/webfonts/v1/webfonts?fields=items(category%2Cfamily%2ClastModified%2Cvariants%2Cversion%2csubsets)&key={YOUR_API_KEY}
 // alternatively available from: https://developers.google.com/apis-explorer/?hl=en_US#p/webfonts/v1/webfonts.webfonts.list?fields=items%252Ffiles&_h=4
 
 var exports = {};

@@ -2,6 +2,9 @@
 	"ABeeZee": {
 		"category": "sans-serif",
 		"lastModified": "2016-09-29",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -39,6 +42,9 @@
 	"Abel": {
 		"category": "sans-serif",
 		"lastModified": "2016-09-29",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -61,6 +67,11 @@
 	"Abhaya Libre": {
 		"category": "serif",
 		"lastModified": "2016-10-06",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"sinhala"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -135,6 +146,10 @@
 	"Abril Fatface": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -157,6 +172,9 @@
 	"Aclonica": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -179,6 +197,9 @@
 	"Acme": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -201,6 +222,9 @@
 	"Actor": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -223,6 +247,9 @@
 	"Adamina": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -245,6 +272,11 @@
 	"Advent Pro": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -345,6 +377,10 @@
 	"Aguafina Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -367,6 +403,10 @@
 	"Akronim": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -389,6 +429,10 @@
 	"Aladin": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -411,6 +455,9 @@
 	"Aldrich": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -432,6 +479,10 @@
 	"Alef": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -467,6 +518,10 @@
 	"Alegreya": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -556,6 +611,10 @@
 	"Alegreya SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -645,6 +704,11 @@
 	"Alegreya Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -838,6 +902,11 @@
 	"Alegreya Sans SC": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -1031,6 +1100,10 @@
 	"Alex Brush": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1053,6 +1126,11 @@
 	"Alfa Slab One": {
 		"category": "display",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1075,6 +1153,11 @@
 	"Alice": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1097,6 +1180,9 @@
 	"Alike": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1119,6 +1205,9 @@
 	"Alike Angular": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1141,6 +1230,10 @@
 	"Allan": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1176,6 +1269,9 @@
 	"Allerta": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1198,6 +1294,9 @@
 	"Allerta Stencil": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1220,6 +1319,10 @@
 	"Allura": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1242,6 +1345,10 @@
 	"Almendra": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -1305,6 +1412,10 @@
 	"Almendra Display": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1327,6 +1438,9 @@
 	"Almendra SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1349,6 +1463,10 @@
 	"Amarante": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1371,6 +1489,9 @@
 	"Amaranth": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -1433,6 +1554,12 @@
 	"Amatic SC": {
 		"category": "handwriting",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1468,6 +1595,11 @@
 	"Amatica SC": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1503,6 +1635,9 @@
 	"Amethysta": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1525,6 +1660,11 @@
 	"Amiko": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1573,6 +1713,10 @@
 	"Amiri": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -1636,6 +1780,11 @@
 	"Amita": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1671,6 +1820,10 @@
 	"Anaheim": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1693,6 +1846,10 @@
 	"Andada": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1714,6 +1871,13 @@
 	"Andika": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1735,6 +1899,9 @@
 	"Angkor": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1756,6 +1923,9 @@
 	"Annie Use Your Telescope": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1778,6 +1948,12 @@
 	"Anonymous Pro": {
 		"category": "monospace",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -1841,6 +2017,9 @@
 	"Antic": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1863,6 +2042,9 @@
 	"Antic Didone": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1885,6 +2067,9 @@
 	"Antic Slab": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1907,6 +2092,11 @@
 	"Anton": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1929,6 +2119,9 @@
 	"Arapey": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -1966,6 +2159,10 @@
 	"Arbutus": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -1987,6 +2184,10 @@
 	"Arbutus Slab": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2009,6 +2210,9 @@
 	"Architects Daughter": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2031,6 +2235,10 @@
 	"Archivo Black": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2053,6 +2261,10 @@
 	"Archivo Narrow": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -2116,6 +2328,10 @@
 	"Aref Ruqaa": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2151,6 +2367,12 @@
 	"Arima Madurai": {
 		"category": "display",
 		"lastModified": "2016-08-22",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -2264,6 +2486,16 @@
 	"Arimo": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"hebrew",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -2326,6 +2558,10 @@
 	"Arizonia": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2348,6 +2584,10 @@
 	"Armata": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2370,6 +2610,13 @@
 	"Arsenal": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -2433,6 +2680,9 @@
 	"Artifika": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2455,6 +2705,9 @@
 	"Arvo": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -2517,6 +2770,11 @@
 	"Arya": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2552,6 +2810,11 @@
 	"Asap": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -2641,6 +2904,11 @@
 	"Asar": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2663,6 +2931,9 @@
 	"Asset": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2684,6 +2955,10 @@
 	"Assistant": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -2771,6 +3046,9 @@
 	"Astloch": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2805,6 +3083,9 @@
 	"Asul": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -2840,6 +3121,12 @@
 	"Athiti": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -2927,6 +3214,11 @@
 	"Atma": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"bengali",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -3001,6 +3293,9 @@
 	"Atomic Age": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3023,6 +3318,9 @@
 	"Aubrey": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3045,6 +3343,10 @@
 	"Audiowide": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3067,6 +3369,10 @@
 	"Autour One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3089,6 +3395,10 @@
 	"Average": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3111,6 +3421,10 @@
 	"Average Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3133,6 +3447,10 @@
 	"Averia Gruesa Libre": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3155,6 +3473,9 @@
 	"Averia Libre": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -3244,6 +3565,9 @@
 	"Averia Sans Libre": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -3333,6 +3657,9 @@
 	"Averia Serif Libre": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -3422,6 +3749,10 @@
 	"Bad Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3444,6 +3775,10 @@
 	"Bahiana": {
 		"category": "display",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3466,6 +3801,12 @@
 	"Baloo": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3488,6 +3829,12 @@
 	"Baloo Bhai": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3510,6 +3857,12 @@
 	"Baloo Bhaina": {
 		"category": "display",
 		"lastModified": "2016-08-19",
+		"subsets": [
+			"oriya",
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3532,6 +3885,12 @@
 	"Baloo Chettan": {
 		"category": "display",
 		"lastModified": "2016-08-19",
+		"subsets": [
+			"latin-ext",
+			"malayalam",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3554,6 +3913,12 @@
 	"Baloo Da": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"bengali",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3576,6 +3941,12 @@
 	"Baloo Paaji": {
 		"category": "display",
 		"lastModified": "2016-08-19",
+		"subsets": [
+			"gurmukhi",
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3598,6 +3969,12 @@
 	"Baloo Tamma": {
 		"category": "display",
 		"lastModified": "2016-08-19",
+		"subsets": [
+			"latin-ext",
+			"kannada",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3620,6 +3997,12 @@
 	"Baloo Thambi": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3642,6 +4025,9 @@
 	"Balthazar": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3664,6 +4050,11 @@
 	"Bangers": {
 		"category": "display",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3686,6 +4077,10 @@
 	"Barrio": {
 		"category": "display",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3708,6 +4103,10 @@
 	"Basic": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3730,6 +4129,9 @@
 	"Battambang": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3764,6 +4166,9 @@
 	"Baumans": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3786,6 +4191,9 @@
 	"Bayon": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3807,6 +4215,9 @@
 	"Belgrano": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3829,6 +4240,10 @@
 	"Belleza": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3851,6 +4266,10 @@
 	"BenchNine": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -3899,6 +4318,9 @@
 	"Bentham": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3921,6 +4343,10 @@
 	"Berkshire Swash": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3943,6 +4369,11 @@
 	"Bevan": {
 		"category": "display",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3965,6 +4396,10 @@
 	"Bigelow Rules": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -3987,6 +4422,9 @@
 	"Bigshot One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4009,6 +4447,10 @@
 	"Bilbo": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4031,6 +4473,10 @@
 	"Bilbo Swash Caps": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4053,6 +4499,10 @@
 	"BioRhyme": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -4127,6 +4577,10 @@
 	"BioRhyme Expanded": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -4201,6 +4655,11 @@
 	"Biryani": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -4301,6 +4760,10 @@
 	"Bitter": {
 		"category": "serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -4348,6 +4811,10 @@
 	"Black Ops One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4370,6 +4837,9 @@
 	"Bokor": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4391,6 +4861,9 @@
 	"Bonbon": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4413,6 +4886,9 @@
 	"Boogaloo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4435,6 +4911,9 @@
 	"Bowlby One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4457,6 +4936,10 @@
 	"Bowlby One SC": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4479,6 +4962,9 @@
 	"Brawler": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4500,6 +4986,10 @@
 	"Bree Serif": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4522,6 +5012,10 @@
 	"Bubblegum Sans": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4544,6 +5038,10 @@
 	"Bubbler One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4566,6 +5064,9 @@
 	"Buda": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -4587,6 +5088,10 @@
 	"Buenard": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4622,6 +5127,11 @@
 	"Bungee": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4644,6 +5154,11 @@
 	"Bungee Hairline": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4666,6 +5181,11 @@
 	"Bungee Inline": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4688,6 +5208,11 @@
 	"Bungee Outline": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4710,6 +5235,11 @@
 	"Bungee Shade": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4732,6 +5262,10 @@
 	"Butcherman": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4754,6 +5288,10 @@
 	"Butterfly Kids": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4776,6 +5314,11 @@
 	"Cabin": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -4891,6 +5434,11 @@
 	"Cabin Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4952,6 +5500,9 @@
 	"Cabin Sketch": {
 		"category": "display",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -4987,6 +5538,9 @@
 	"Caesar Dressing": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5009,6 +5563,9 @@
 	"Cagliostro": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5031,6 +5588,11 @@
 	"Cairo": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -5118,6 +5680,9 @@
 	"Calligraffitti": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5140,6 +5705,11 @@
 	"Cambay": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -5203,6 +5773,9 @@
 	"Cambo": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5225,6 +5798,9 @@
 	"Candal": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5246,6 +5822,9 @@
 	"Cantarell": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -5309,6 +5888,10 @@
 	"Cantata One": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5331,6 +5914,10 @@
 	"Cantora One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5353,6 +5940,10 @@
 	"Capriola": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5375,6 +5966,12 @@
 	"Cardo": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -5425,6 +6022,9 @@
 	"Carme": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5447,6 +6047,9 @@
 	"Carrois Gothic": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5469,6 +6072,9 @@
 	"Carrois Gothic SC": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5491,6 +6097,9 @@
 	"Carter One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5513,6 +6122,11 @@
 	"Catamaran": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -5639,6 +6253,12 @@
 	"Caudex": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -5701,6 +6321,10 @@
 	"Caveat": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5736,6 +6360,10 @@
 	"Caveat Brush": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5758,6 +6386,9 @@
 	"Cedarville Cursive": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5780,6 +6411,10 @@
 	"Ceviche One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5802,6 +6437,11 @@
 	"Changa": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -5902,6 +6542,9 @@
 	"Changa One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -5939,6 +6582,10 @@
 	"Chango": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -5961,6 +6608,10 @@
 	"Chathura": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -6035,6 +6686,10 @@
 	"Chau Philomene One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -6072,6 +6727,10 @@
 	"Chela One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6094,6 +6753,10 @@
 	"Chelsea Market": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6116,6 +6779,9 @@
 	"Chenla": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6137,6 +6803,9 @@
 	"Cherry Cream Soda": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6159,6 +6828,10 @@
 	"Cherry Swash": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6194,6 +6867,9 @@
 	"Chewy": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6215,6 +6891,10 @@
 	"Chicle": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6237,6 +6917,10 @@
 	"Chivo": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -6352,6 +7036,12 @@
 	"Chonburi": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6374,6 +7064,9 @@
 	"Cinzel": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6419,6 +7112,9 @@
 	"Cinzel Decorative": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6466,6 +7162,10 @@
 	"Clicker Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6488,6 +7188,10 @@
 	"Coda": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6523,6 +7227,10 @@
 	"Coda Caption": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"800": {
@@ -6545,6 +7253,10 @@
 	"Codystar": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -6579,6 +7291,12 @@
 	"Coiny": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6601,6 +7319,10 @@
 	"Combo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6623,6 +7345,14 @@
 	"Comfortaa": {
 		"category": "display",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -6671,6 +7401,9 @@
 	"Coming Soon": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6693,6 +7426,10 @@
 	"Concert One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6715,6 +7452,10 @@
 	"Condiment": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6737,6 +7478,9 @@
 	"Content": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6771,6 +7515,9 @@
 	"Contrail One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6793,6 +7540,9 @@
 	"Convergence": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6814,6 +7564,9 @@
 	"Cookie": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6835,6 +7588,9 @@
 	"Copse": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6856,6 +7612,10 @@
 	"Corben": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -6890,6 +7650,13 @@
 	"Cormorant": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -7031,6 +7798,13 @@
 	"Cormorant Garamond": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -7172,6 +7946,13 @@
 	"Cormorant Infant": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -7313,6 +8094,13 @@
 	"Cormorant SC": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -7387,6 +8175,13 @@
 	"Cormorant Unicase": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -7461,6 +8256,11 @@
 	"Cormorant Upright": {
 		"category": "serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -7535,6 +8335,10 @@
 	"Courgette": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7557,6 +8361,16 @@
 	"Cousine": {
 		"category": "monospace",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"hebrew",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -7619,6 +8433,9 @@
 	"Coustard": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7652,6 +8469,9 @@
 	"Covered By Your Grace": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7674,6 +8494,9 @@
 	"Crafty Girls": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7696,6 +8519,9 @@
 	"Creepster": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7718,6 +8544,10 @@
 	"Crete Round": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -7755,6 +8585,9 @@
 	"Crimson Text": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -7844,6 +8677,10 @@
 	"Croissant One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7866,6 +8703,9 @@
 	"Crushed": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7888,6 +8728,13 @@
 	"Cuprum": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -7951,6 +8798,10 @@
 	"Cutive": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7973,6 +8824,10 @@
 	"Cutive Mono": {
 		"category": "monospace",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -7995,6 +8850,9 @@
 	"Damion": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8016,6 +8874,11 @@
 	"Dancing Script": {
 		"category": "handwriting",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8051,6 +8914,9 @@
 	"Dangrek": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8072,6 +8938,12 @@
 	"David Libre": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8120,6 +8992,9 @@
 	"Dawning of a New Day": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8142,6 +9017,9 @@
 	"Days One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8164,6 +9042,11 @@
 	"Dekko": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8185,6 +9068,9 @@
 	"Delius": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8206,6 +9092,9 @@
 	"Delius Swash Caps": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8228,6 +9117,9 @@
 	"Delius Unicase": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8263,6 +9155,9 @@
 	"Della Respira": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8285,6 +9180,10 @@
 	"Denk One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8307,6 +9206,10 @@
 	"Devonshire": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8328,6 +9231,10 @@
 	"Dhurjati": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8349,6 +9256,14 @@
 	"Didact Gothic": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8371,6 +9286,10 @@
 	"Diplomata": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8393,6 +9312,10 @@
 	"Diplomata SC": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8415,6 +9338,10 @@
 	"Domine": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8450,6 +9377,10 @@
 	"Donegal One": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8472,6 +9403,10 @@
 	"Doppio One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8494,6 +9429,9 @@
 	"Dorsa": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8516,6 +9454,10 @@
 	"Dosis": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -8616,6 +9558,10 @@
 	"Dr Sugiyama": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8638,6 +9584,9 @@
 	"Droid Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8673,6 +9622,9 @@
 	"Droid Sans Mono": {
 		"category": "monospace",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8695,6 +9647,9 @@
 	"Droid Serif": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -8758,6 +9713,10 @@
 	"Duru Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8780,6 +9739,10 @@
 	"Dynalight": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8802,6 +9765,13 @@
 	"EB Garamond": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8824,6 +9794,10 @@
 	"Eagle Lake": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8846,6 +9820,10 @@
 	"Eater": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -8868,6 +9846,10 @@
 	"Economica": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -8931,6 +9913,11 @@
 	"Eczar": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9005,6 +9992,11 @@
 	"Ek Mukta": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -9105,6 +10097,11 @@
 	"El Messiri": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"arabic",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9166,6 +10163,9 @@
 	"Electrolize": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9188,6 +10188,10 @@
 	"Elsie": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9223,6 +10227,10 @@
 	"Elsie Swash Caps": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9258,6 +10266,10 @@
 	"Emblema One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9280,6 +10292,10 @@
 	"Emilys Candy": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9302,6 +10318,9 @@
 	"Engagement": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9324,6 +10343,10 @@
 	"Englebert": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9346,6 +10369,10 @@
 	"Enriqueta": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9379,6 +10406,10 @@
 	"Erica One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9401,6 +10432,10 @@
 	"Esteban": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9422,6 +10457,10 @@
 	"Euphoria Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9444,6 +10483,10 @@
 	"Ewert": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -9466,6 +10509,10 @@
 	"Exo": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -9711,6 +10758,11 @@
 	"Exo 2": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -9956,6 +11008,9 @@
 	"Expletus Sans": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -10071,6 +11126,9 @@
 	"Fanwood Text": {
 		"category": "serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -10108,6 +11166,12 @@
 	"Farsan": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10130,6 +11194,9 @@
 	"Fascinate": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10152,6 +11219,9 @@
 	"Fascinate Inline": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10174,6 +11244,9 @@
 	"Faster One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10196,6 +11269,9 @@
 	"Fasthand": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10218,6 +11294,10 @@
 	"Fauna One": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10240,6 +11320,9 @@
 	"Federant": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10262,6 +11345,9 @@
 	"Federo": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10284,6 +11370,10 @@
 	"Felipa": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10306,6 +11396,10 @@
 	"Fenix": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10328,6 +11422,9 @@
 	"Finger Paint": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10350,6 +11447,14 @@
 	"Fira Mono": {
 		"category": "monospace",
 		"lastModified": "2017-01-10",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -10398,6 +11503,15 @@
 	"Fira Sans": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-10",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -10643,6 +11757,15 @@
 	"Fira Sans Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-10",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -10888,6 +12011,15 @@
 	"Fira Sans Extra Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-10",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -11133,6 +12265,10 @@
 	"Fjalla One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11155,6 +12291,9 @@
 	"Fjord One": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11177,6 +12316,9 @@
 	"Flamenco": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -11212,6 +12354,9 @@
 	"Flavors": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11234,6 +12379,10 @@
 	"Fondamento": {
 		"category": "handwriting",
 		"lastModified": "2016-10-27",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -11270,6 +12419,9 @@
 	"Fontdiner Swanky": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11292,6 +12444,12 @@
 	"Forum": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11313,6 +12471,11 @@
 	"Francois One": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11335,6 +12498,11 @@
 	"Frank Ruhl Libre": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -11409,6 +12577,10 @@
 	"Freckle Face": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11431,6 +12603,9 @@
 	"Fredericka the Great": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11453,6 +12628,9 @@
 	"Fredoka One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11475,6 +12653,9 @@
 	"Freehand": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11496,6 +12677,10 @@
 	"Fresca": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11517,6 +12702,9 @@
 	"Frijole": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11538,6 +12726,10 @@
 	"Fruktur": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11560,6 +12752,9 @@
 	"Fugaz One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11582,6 +12777,9 @@
 	"GFS Didot": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"greek"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11604,6 +12802,9 @@
 	"GFS Neohellenic": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"greek"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -11667,6 +12868,11 @@
 	"Gabriela": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11689,6 +12895,10 @@
 	"Gafata": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11711,6 +12921,10 @@
 	"Galada": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"bengali",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11733,6 +12947,9 @@
 	"Galdeano": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11755,6 +12972,10 @@
 	"Galindo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11777,6 +12998,10 @@
 	"Gentium Basic": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -11840,6 +13065,10 @@
 	"Gentium Book Basic": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -11903,6 +13132,9 @@
 	"Geo": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -11940,6 +13172,9 @@
 	"Geostar": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11962,6 +13197,9 @@
 	"Geostar Fill": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -11984,6 +13222,9 @@
 	"Germania One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12006,6 +13247,10 @@
 	"Gidugu": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12027,6 +13272,10 @@
 	"Gilda Display": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12049,6 +13298,9 @@
 	"Give You Glory": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12071,6 +13323,10 @@
 	"Glass Antiqua": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12093,6 +13349,11 @@
 	"Glegoo": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12128,6 +13389,9 @@
 	"Gloria Hallelujah": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12150,6 +13414,9 @@
 	"Goblin One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12172,6 +13439,9 @@
 	"Gochi Hand": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12194,6 +13464,9 @@
 	"Gorditas": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12229,6 +13502,9 @@
 	"Goudy Bookletter 1911": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12251,6 +13527,9 @@
 	"Graduate": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12273,6 +13552,10 @@
 	"Grand Hotel": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12295,6 +13578,9 @@
 	"Gravitas One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12317,6 +13603,10 @@
 	"Great Vibes": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12339,6 +13629,10 @@
 	"Griffy": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12361,6 +13655,10 @@
 	"Gruppo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12382,6 +13680,10 @@
 	"Gudea": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -12431,6 +13733,10 @@
 	"Gurajada": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12452,6 +13758,10 @@
 	"Habibi": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12474,6 +13784,11 @@
 	"Halant": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -12548,6 +13863,10 @@
 	"Hammersmith One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12570,6 +13889,10 @@
 	"Hanalei": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12592,6 +13915,10 @@
 	"Hanalei Fill": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12614,6 +13941,9 @@
 	"Handlee": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12636,6 +13966,9 @@
 	"Hanuman": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12670,6 +14003,10 @@
 	"Happy Monkey": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12692,6 +14029,10 @@
 	"Harmattan": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12714,6 +14055,10 @@
 	"Headland One": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12736,6 +14081,10 @@
 	"Heebo": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -12836,6 +14185,9 @@
 	"Henny Penny": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12858,6 +14210,10 @@
 	"Herr Von Muellerhoff": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -12880,6 +14236,11 @@
 	"Hind": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-02",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -12954,6 +14315,11 @@
 	"Hind Guntur": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -13028,6 +14394,11 @@
 	"Hind Madurai": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -13102,6 +14473,11 @@
 	"Hind Siliguri": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-02",
+		"subsets": [
+			"latin-ext",
+			"bengali",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -13176,6 +14552,11 @@
 	"Hind Vadodara": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-02",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -13250,6 +14631,9 @@
 	"Holtwood One SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13272,6 +14656,9 @@
 	"Homemade Apple": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13294,6 +14681,9 @@
 	"Homenaje": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13316,6 +14706,9 @@
 	"IM Fell DW Pica": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13353,6 +14746,9 @@
 	"IM Fell DW Pica SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13375,6 +14771,9 @@
 	"IM Fell Double Pica": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13412,6 +14811,9 @@
 	"IM Fell Double Pica SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13434,6 +14836,9 @@
 	"IM Fell English": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13471,6 +14876,9 @@
 	"IM Fell English SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13493,6 +14901,9 @@
 	"IM Fell French Canon": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13530,6 +14941,9 @@
 	"IM Fell French Canon SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13552,6 +14966,9 @@
 	"IM Fell Great Primer": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13589,6 +15006,9 @@
 	"IM Fell Great Primer SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13611,6 +15031,9 @@
 	"Iceberg": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13633,6 +15056,9 @@
 	"Iceland": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13655,6 +15081,10 @@
 	"Imprima": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13677,6 +15107,11 @@
 	"Inconsolata": {
 		"category": "monospace",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13712,6 +15147,10 @@
 	"Inder": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13734,6 +15173,9 @@
 	"Indie Flower": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13756,6 +15198,10 @@
 	"Inika": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13790,6 +15236,11 @@
 	"Inknut Antiqua": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -13883,6 +15334,9 @@
 	"Irish Grover": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13905,6 +15359,12 @@
 	"Istok Web": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -13968,6 +15428,9 @@
 	"Italiana": {
 		"category": "serif",
 		"lastModified": "2016-10-27",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -13990,6 +15453,10 @@
 	"Italianno": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14012,6 +15479,12 @@
 	"Itim": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14034,6 +15507,9 @@
 	"Jacques Francois": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14056,6 +15532,9 @@
 	"Jacques Francois Shadow": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14078,6 +15557,11 @@
 	"Jaldi": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14113,6 +15597,10 @@
 	"Jim Nightshade": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14135,6 +15623,10 @@
 	"Jockey One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14157,6 +15649,10 @@
 	"Jolly Lodger": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14179,6 +15675,11 @@
 	"Jomhuria": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14201,6 +15702,10 @@
 	"Josefin Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -14342,6 +15847,9 @@
 	"Josefin Slab": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -14483,6 +15991,10 @@
 	"Joti One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14505,6 +16017,11 @@
 	"Judson": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -14555,6 +16072,9 @@
 	"Julee": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14576,6 +16096,10 @@
 	"Julius Sans One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14598,6 +16122,9 @@
 	"Junge": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14620,6 +16147,13 @@
 	"Jura": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -14681,6 +16215,9 @@
 	"Just Another Hand": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14703,6 +16240,10 @@
 	"Just Me Again Down Here": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14725,6 +16266,10 @@
 	"Kadwa": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14760,6 +16305,11 @@
 	"Kalam": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -14808,6 +16358,9 @@
 	"Kameron": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -14842,6 +16395,12 @@
 	"Kanit": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -15087,6 +16646,9 @@
 	"Kantumruy": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15134,6 +16696,10 @@
 	"Karla": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -15197,6 +16763,11 @@
 	"Karma": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15271,6 +16842,11 @@
 	"Katibeh": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15292,6 +16868,10 @@
 	"Kaushan Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15314,6 +16894,11 @@
 	"Kavivanar": {
 		"category": "handwriting",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15336,6 +16921,10 @@
 	"Kavoon": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15358,6 +16947,9 @@
 	"Kdam Thmor": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15380,6 +16972,10 @@
 	"Keania One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15402,6 +16998,11 @@
 	"Kelly Slab": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15424,6 +17025,9 @@
 	"Kenia": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15446,6 +17050,11 @@
 	"Khand": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15520,6 +17129,9 @@
 	"Khmer": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15541,6 +17153,11 @@
 	"Khula": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15615,6 +17232,9 @@
 	"Kite One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15637,6 +17257,10 @@
 	"Knewave": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15659,6 +17283,10 @@
 	"Kotta One": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15681,6 +17309,9 @@
 	"Koulen": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15702,6 +17333,9 @@
 	"Kranky": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15723,6 +17357,9 @@
 	"Kreon": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15771,6 +17408,9 @@
 	"Kristi": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15792,6 +17432,10 @@
 	"Krona One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15814,6 +17458,11 @@
 	"Kumar One": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15836,6 +17485,11 @@
 	"Kumar One Outline": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15858,6 +17512,13 @@
 	"Kurale": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"devanagari",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15880,6 +17541,9 @@
 	"La Belle Aurore": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15902,6 +17566,11 @@
 	"Laila": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -15976,6 +17645,10 @@
 	"Lakki Reddy": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -15998,6 +17671,12 @@
 	"Lalezar": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16020,6 +17699,10 @@
 	"Lancelot": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16041,6 +17724,10 @@
 	"Lateef": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16062,6 +17749,10 @@
 	"Lato": {
 		"category": "sans-serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -16203,6 +17894,9 @@
 	"League Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16225,6 +17919,9 @@
 	"Leckerli One": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16247,6 +17944,11 @@
 	"Ledger": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16269,6 +17971,10 @@
 	"Lekton": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -16317,6 +18023,9 @@
 	"Lemon": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16339,6 +18048,12 @@
 	"Lemonada": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -16400,6 +18115,10 @@
 	"Libre Baskerville": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -16450,6 +18169,10 @@
 	"Libre Franklin": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -16695,6 +18418,10 @@
 	"Life Savers": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16730,6 +18457,10 @@
 	"Lilita One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16752,6 +18483,10 @@
 	"Lily Script One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16774,6 +18509,10 @@
 	"Limelight": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16795,6 +18534,9 @@
 	"Linden Hill": {
 		"category": "serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -16832,6 +18574,12 @@
 	"Lobster": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16854,6 +18602,9 @@
 	"Lobster Two": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -16917,6 +18668,9 @@
 	"Londrina Outline": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16939,6 +18693,9 @@
 	"Londrina Shadow": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16961,6 +18718,9 @@
 	"Londrina Sketch": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -16983,6 +18743,9 @@
 	"Londrina Solid": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17005,6 +18768,13 @@
 	"Lora": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -17068,6 +18838,9 @@
 	"Love Ya Like A Sister": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17090,6 +18863,9 @@
 	"Loved by the King": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17112,6 +18888,10 @@
 	"Lovers Quarrel": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17134,6 +18914,9 @@
 	"Luckiest Guy": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17156,6 +18939,9 @@
 	"Lusitana": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17190,6 +18976,9 @@
 	"Lustria": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17212,6 +19001,9 @@
 	"Macondo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17234,6 +19026,9 @@
 	"Macondo Swash Caps": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17256,6 +19051,10 @@
 	"Mada": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -17317,6 +19116,10 @@
 	"Magra": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17351,6 +19154,9 @@
 	"Maiden Orange": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17373,6 +19179,12 @@
 	"Maitree": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -17459,6 +19271,9 @@
 	"Mako": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17480,6 +19295,10 @@
 	"Mallanna": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17501,6 +19320,10 @@
 	"Mandali": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17522,6 +19345,10 @@
 	"Marcellus": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17544,6 +19371,10 @@
 	"Marcellus SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17566,6 +19397,11 @@
 	"Marck Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17588,6 +19424,10 @@
 	"Margarine": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17610,6 +19450,9 @@
 	"Marko One": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17632,6 +19475,11 @@
 	"Marmelad": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17654,6 +19502,11 @@
 	"Martel": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -17754,6 +19607,11 @@
 	"Martel Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -17854,6 +19712,9 @@
 	"Marvel": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -17917,6 +19778,9 @@
 	"Mate": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -17953,6 +19817,9 @@
 	"Mate SC": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -17975,6 +19842,11 @@
 	"Maven Pro": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18036,6 +19908,10 @@
 	"McLaren": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18058,6 +19934,9 @@
 	"Meddon": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18079,6 +19958,10 @@
 	"MedievalSharp": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18100,6 +19983,9 @@
 	"Medula One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18122,6 +20008,10 @@
 	"Meera Inimai": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18144,6 +20034,9 @@
 	"Megrim": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18165,6 +20058,10 @@
 	"Meie Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18187,6 +20084,10 @@
 	"Merienda": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18222,6 +20123,9 @@
 	"Merienda One": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18244,6 +20148,12 @@
 	"Merriweather": {
 		"category": "serif",
 		"lastModified": "2017-02-06",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -18359,6 +20269,10 @@
 	"Merriweather Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -18474,6 +20388,9 @@
 	"Metal": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18495,6 +20412,10 @@
 	"Metal Mania": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18517,6 +20438,10 @@
 	"Metamorphous": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18538,6 +20463,9 @@
 	"Metrophobic": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18560,6 +20488,9 @@
 	"Michroma": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18581,6 +20512,10 @@
 	"Milonga": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18603,6 +20538,9 @@
 	"Miltonian": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18625,6 +20563,9 @@
 	"Miltonian Tattoo": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18647,6 +20588,9 @@
 	"Miniver": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18668,6 +20612,11 @@
 	"Miriam Libre": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18703,6 +20652,11 @@
 	"Mirza": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18764,6 +20718,10 @@
 	"Miss Fajardose": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18786,6 +20744,12 @@
 	"Mitr": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -18873,6 +20837,11 @@
 	"Modak": {
 		"category": "display",
 		"lastModified": "2016-05-11",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18894,6 +20863,10 @@
 	"Modern Antiqua": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18916,6 +20889,11 @@
 	"Mogra": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18938,6 +20916,10 @@
 	"Molengo": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -18960,6 +20942,10 @@
 	"Molle": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -18982,6 +20968,10 @@
 	"Monda": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19017,6 +21007,9 @@
 	"Monofett": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19038,6 +21031,9 @@
 	"Monoton": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19060,6 +21056,10 @@
 	"Monsieur La Doulaise": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19082,6 +21082,9 @@
 	"Montaga": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19104,6 +21107,9 @@
 	"Montez": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19126,6 +21132,11 @@
 	"Montserrat": {
 		"category": "sans-serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -19371,6 +21382,11 @@
 	"Montserrat Alternates": {
 		"category": "sans-serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -19616,6 +21632,9 @@
 	"Montserrat Subrayada": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19649,6 +21668,9 @@
 	"Moul": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19670,6 +21692,9 @@
 	"Moulpali": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19692,6 +21717,9 @@
 	"Mountains of Christmas": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19727,6 +21755,10 @@
 	"Mouse Memoirs": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19749,6 +21781,10 @@
 	"Mr Bedfort": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19771,6 +21807,10 @@
 	"Mr Dafoe": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19793,6 +21833,10 @@
 	"Mr De Haviland": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19815,6 +21859,10 @@
 	"Mrs Saint Delafield": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19837,6 +21885,10 @@
 	"Mrs Sheppards": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -19859,6 +21911,11 @@
 	"Mukta Vaani": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -19959,6 +22016,11 @@
 	"Muli": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"200": {
@@ -20152,6 +22214,10 @@
 	"Mystery Quest": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20174,6 +22240,10 @@
 	"NTR": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20195,6 +22265,10 @@
 	"Neucha": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20216,6 +22290,10 @@
 	"Neuton": {
 		"category": "serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -20305,6 +22383,10 @@
 	"New Rocker": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20327,6 +22409,10 @@
 	"News Cycle": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20362,6 +22448,10 @@
 	"Niconne": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20384,6 +22474,9 @@
 	"Nixie One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20406,6 +22499,9 @@
 	"Nobile": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -20469,6 +22565,9 @@
 	"Nokora": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20503,6 +22602,10 @@
 	"Norican": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20525,6 +22628,10 @@
 	"Nosifer": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20547,6 +22654,9 @@
 	"Nothing You Could Do": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20569,6 +22679,11 @@
 	"Noticia Text": {
 		"category": "serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -20632,6 +22747,16 @@
 	"Noto Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"devanagari",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -20695,6 +22820,15 @@
 	"Noto Serif": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -20758,6 +22892,9 @@
 	"Nova Cut": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20780,6 +22917,9 @@
 	"Nova Flat": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20802,6 +22942,10 @@
 	"Nova Mono": {
 		"category": "monospace",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"greek",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20823,6 +22967,9 @@
 	"Nova Oval": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20845,6 +22992,9 @@
 	"Nova Round": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20867,6 +23017,9 @@
 	"Nova Script": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20889,6 +23042,9 @@
 	"Nova Slim": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20911,6 +23067,9 @@
 	"Nova Square": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20933,6 +23092,9 @@
 	"Numans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -20955,6 +23117,11 @@
 	"Nunito": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"200": {
@@ -21148,6 +23315,11 @@
 	"Nunito Sans": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-25",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"200": {
@@ -21341,6 +23513,9 @@
 	"Odor Mean Chey": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21362,6 +23537,9 @@
 	"Offside": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21384,6 +23562,13 @@
 	"Old Standard TT": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -21434,6 +23619,10 @@
 	"Oldenburg": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21456,6 +23645,10 @@
 	"Oleo Script": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21491,6 +23684,10 @@
 	"Oleo Script Swash Caps": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21526,6 +23723,15 @@
 	"Open Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -21667,6 +23873,15 @@
 	"Open Sans Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -21717,6 +23932,12 @@
 	"Oranienbaum": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21739,6 +23960,9 @@
 	"Orbitron": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21797,6 +24021,10 @@
 	"Oregano": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -21834,6 +24062,10 @@
 	"Orienta": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21856,6 +24088,9 @@
 	"Original Surfer": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21878,6 +24113,12 @@
 	"Oswald": {
 		"category": "sans-serif",
 		"lastModified": "2017-02-14",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -21965,6 +24206,9 @@
 	"Over the Rainbow": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -21987,6 +24231,10 @@
 	"Overlock": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -22071,6 +24319,10 @@
 	"Overlock SC": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22093,6 +24345,10 @@
 	"Overpass": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -22312,6 +24568,10 @@
 	"Overpass Mono": {
 		"category": "monospace",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -22373,6 +24633,9 @@
 	"Ovo": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22394,6 +24657,10 @@
 	"Oxygen": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -22442,6 +24709,10 @@
 	"Oxygen Mono": {
 		"category": "monospace",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22464,6 +24735,12 @@
 	"PT Mono": {
 		"category": "monospace",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22486,6 +24763,12 @@
 	"PT Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -22549,6 +24832,12 @@
 	"PT Sans Caption": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22584,6 +24873,12 @@
 	"PT Sans Narrow": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22619,6 +24914,12 @@
 	"PT Serif": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -22682,6 +24983,12 @@
 	"PT Serif Caption": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -22719,6 +25026,11 @@
 	"Pacifico": {
 		"category": "handwriting",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22741,6 +25053,10 @@
 	"Padauk": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-10",
+		"subsets": [
+			"myanmar",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22776,6 +25092,11 @@
 	"Palanquin": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -22876,6 +25197,11 @@
 	"Palanquin Dark": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22937,6 +25263,13 @@
 	"Pangolin": {
 		"category": "handwriting",
 		"lastModified": "2017-02-14",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22959,6 +25292,9 @@
 	"Paprika": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -22981,6 +25317,10 @@
 	"Parisienne": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23003,6 +25343,10 @@
 	"Passero One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23025,6 +25369,10 @@
 	"Passion One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23073,6 +25421,10 @@
 	"Pathway Gothic One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23095,6 +25447,11 @@
 	"Patrick Hand": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23117,6 +25474,11 @@
 	"Patrick Hand SC": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23139,6 +25501,13 @@
 	"Pattaya": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23161,6 +25530,9 @@
 	"Patua One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23183,6 +25555,11 @@
 	"Pavanam": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"tamil",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23205,6 +25582,9 @@
 	"Paytone One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23227,6 +25607,10 @@
 	"Peddana": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23249,6 +25633,10 @@
 	"Peralta": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23271,6 +25659,9 @@
 	"Permanent Marker": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23293,6 +25684,10 @@
 	"Petit Formal Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23315,6 +25710,9 @@
 	"Petrona": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23337,6 +25735,12 @@
 	"Philosopher": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -23400,6 +25804,10 @@
 	"Piedra": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23422,6 +25830,9 @@
 	"Pinyon Script": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23444,6 +25855,10 @@
 	"Pirata One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23466,6 +25881,10 @@
 	"Plaster": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23488,6 +25907,13 @@
 	"Play": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23523,6 +25949,10 @@
 	"Playball": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23545,6 +25975,11 @@
 	"Playfair Display": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -23634,6 +26069,11 @@
 	"Playfair Display SC": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -23723,6 +26163,13 @@
 	"Podkova": {
 		"category": "serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23797,6 +26244,11 @@
 	"Poiret One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23819,6 +26271,9 @@
 	"Poller One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23841,6 +26296,9 @@
 	"Poly": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -23876,6 +26334,9 @@
 	"Pompiere": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23898,6 +26359,10 @@
 	"Pontano Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -23920,6 +26385,11 @@
 	"Poppins": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -23994,6 +26464,9 @@
 	"Port Lligat Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24016,6 +26489,9 @@
 	"Port Lligat Slab": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24038,6 +26514,11 @@
 	"Pragati Narrow": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24073,6 +26554,12 @@
 	"Prata": {
 		"category": "serif",
 		"lastModified": "2017-01-19",
+		"subsets": [
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24095,6 +26582,9 @@
 	"Preahvihear": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24117,6 +26607,13 @@
 	"Press Start 2P": {
 		"category": "display",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24139,6 +26636,12 @@
 	"Pridi": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -24226,6 +26729,10 @@
 	"Princess Sofia": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24248,6 +26755,9 @@
 	"Prociono": {
 		"category": "serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24270,6 +26780,12 @@
 	"Prompt": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -24515,6 +27031,11 @@
 	"Prosto One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24537,6 +27058,10 @@
 	"Proza Libre": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -24678,6 +27203,9 @@
 	"Puritan": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -24741,6 +27269,10 @@
 	"Purple Purse": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24763,6 +27295,10 @@
 	"Quando": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24784,6 +27320,9 @@
 	"Quantico": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -24844,6 +27383,10 @@
 	"Quattrocento": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24878,6 +27421,10 @@
 	"Quattrocento Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -24941,6 +27488,9 @@
 	"Questrial": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -24963,6 +27513,11 @@
 	"Quicksand": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -25024,6 +27579,10 @@
 	"Quintessential": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25046,6 +27605,10 @@
 	"Qwigley": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25068,6 +27631,10 @@
 	"Racing Sans One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25090,6 +27657,10 @@
 	"Radley": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -25126,6 +27697,11 @@
 	"Rajdhani": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -25200,6 +27776,11 @@
 	"Rakkas": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25222,6 +27803,10 @@
 	"Raleway": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -25467,6 +28052,10 @@
 	"Raleway Dots": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25489,6 +28078,10 @@
 	"Ramabhadra": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25510,6 +28103,10 @@
 	"Ramaraja": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25531,6 +28128,10 @@
 	"Rambla": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -25594,6 +28195,10 @@
 	"Rammetto One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25616,6 +28221,10 @@
 	"Ranchers": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25638,6 +28247,9 @@
 	"Rancho": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25659,6 +28271,11 @@
 	"Ranga": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25694,6 +28311,11 @@
 	"Rasa": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -25768,6 +28390,9 @@
 	"Rationale": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25790,6 +28415,10 @@
 	"Ravi Prakash": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25812,6 +28441,9 @@
 	"Redressed": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25833,6 +28465,10 @@
 	"Reem Kufi": {
 		"category": "sans-serif",
 		"lastModified": "2016-08-22",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25855,6 +28491,9 @@
 	"Reenie Beanie": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25877,6 +28516,10 @@
 	"Revalia": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25898,6 +28541,11 @@
 	"Rhodium Libre": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25920,6 +28568,10 @@
 	"Ribeye": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25942,6 +28594,10 @@
 	"Ribeye Marrow": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25964,6 +28620,10 @@
 	"Righteous": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -25986,6 +28646,10 @@
 	"Risque": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26008,6 +28672,15 @@
 	"Roboto": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -26175,6 +28848,15 @@
 	"Roboto Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -26264,6 +28946,15 @@
 	"Roboto Mono": {
 		"category": "monospace",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -26405,6 +29096,15 @@
 	"Roboto Slab": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -26466,6 +29166,9 @@
 	"Rochester": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26488,6 +29191,9 @@
 	"Rock Salt": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26510,6 +29216,11 @@
 	"Rokkitt": {
 		"category": "serif",
 		"lastModified": "2017-02-09",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -26636,6 +29347,10 @@
 	"Romanesco": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26658,6 +29373,10 @@
 	"Ropa Sans": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -26695,6 +29414,9 @@
 	"Rosario": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -26758,6 +29480,10 @@
 	"Rosarivo": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -26795,6 +29521,9 @@
 	"Rouge Script": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26817,6 +29546,11 @@
 	"Rozha One": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -26839,6 +29573,12 @@
 	"Rubik": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -26980,6 +29720,11 @@
 	"Rubik Mono One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27002,6 +29747,10 @@
 	"Ruda": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27049,6 +29798,10 @@
 	"Rufina": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27084,6 +29837,10 @@
 	"Ruge Boogie": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27106,6 +29863,10 @@
 	"Ruluko": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27127,6 +29888,10 @@
 	"Rum Raisin": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27149,6 +29914,11 @@
 	"Ruslan Display": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27171,6 +29941,11 @@
 	"Russo One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27193,6 +29968,10 @@
 	"Ruthie": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27215,6 +29994,10 @@
 	"Rye": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27237,6 +30020,10 @@
 	"Sacramento": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27259,6 +30046,10 @@
 	"Sahitya": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27294,6 +30085,10 @@
 	"Sail": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27316,6 +30111,9 @@
 	"Salsa": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27337,6 +30135,10 @@
 	"Sanchez": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -27374,6 +30176,10 @@
 	"Sancreek": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27396,6 +30202,10 @@
 	"Sansita": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -27511,6 +30321,11 @@
 	"Sarala": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27546,6 +30361,10 @@
 	"Sarina": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27568,6 +30387,11 @@
 	"Sarpanch": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27655,6 +30479,9 @@
 	"Satisfy": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27676,6 +30503,12 @@
 	"Scada": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -27739,6 +30572,10 @@
 	"Scheherazade": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"arabic",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27774,6 +30611,9 @@
 	"Schoolbell": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27795,6 +30635,10 @@
 	"Scope One": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27817,6 +30661,10 @@
 	"Seaweed Script": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27839,6 +30687,11 @@
 	"Secular One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27861,6 +30714,10 @@
 	"Sevillana": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27883,6 +30740,11 @@
 	"Seymour One": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27905,6 +30767,9 @@
 	"Shadows Into Light": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27927,6 +30792,10 @@
 	"Shadows Into Light Two": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27949,6 +30818,9 @@
 	"Shanti": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -27970,6 +30842,10 @@
 	"Share": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -28033,6 +30909,9 @@
 	"Share Tech": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28055,6 +30934,9 @@
 	"Share Tech Mono": {
 		"category": "monospace",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28077,6 +30959,10 @@
 	"Shojumaru": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28099,6 +30985,9 @@
 	"Short Stack": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28121,6 +31010,11 @@
 	"Shrikhand": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"gujarati",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28143,6 +31037,9 @@
 	"Siemreap": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28164,6 +31061,11 @@
 	"Sigmar One": {
 		"category": "display",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28186,6 +31088,10 @@
 	"Signika": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -28244,6 +31150,10 @@
 	"Signika Negative": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -28305,6 +31215,10 @@
 	"Simonetta": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -28368,6 +31282,10 @@
 	"Sintony": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28402,6 +31320,9 @@
 	"Sirin Stencil": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28424,6 +31345,9 @@
 	"Six Caps": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28446,6 +31370,10 @@
 	"Skranji": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28480,6 +31408,10 @@
 	"Slabo 13px": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28502,6 +31434,10 @@
 	"Slabo 27px": {
 		"category": "serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28524,6 +31460,9 @@
 	"Slackey": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28545,6 +31484,9 @@
 	"Smokum": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28567,6 +31509,9 @@
 	"Smythe": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28588,6 +31533,10 @@
 	"Sniglet": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28623,6 +31572,9 @@
 	"Snippet": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28644,6 +31596,10 @@
 	"Snowburst One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28666,6 +31622,9 @@
 	"Sofadi One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28688,6 +31647,9 @@
 	"Sofia": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28710,6 +31672,10 @@
 	"Sonsie One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -28732,6 +31698,10 @@
 	"Sorts Mill Goudy": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -28769,6 +31739,10 @@
 	"Source Code Pro": {
 		"category": "monospace",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -28869,6 +31843,11 @@
 	"Source Sans Pro": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"200": {
@@ -29036,6 +32015,10 @@
 	"Source Serif Pro": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29084,6 +32067,11 @@
 	"Space Mono": {
 		"category": "monospace",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -29147,6 +32135,9 @@
 	"Special Elite": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29169,6 +32160,9 @@
 	"Spicy Rice": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29191,6 +32185,10 @@
 	"Spinnaker": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29213,6 +32211,9 @@
 	"Spirax": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29234,6 +32235,9 @@
 	"Squada One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29256,6 +32260,10 @@
 	"Sree Krushnadevaraya": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29278,6 +32286,12 @@
 	"Sriracha": {
 		"category": "handwriting",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29300,6 +32314,10 @@
 	"Stalemate": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29322,6 +32340,11 @@
 	"Stalinist One": {
 		"category": "display",
 		"lastModified": "2016-10-10",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29344,6 +32367,9 @@
 	"Stardos Stencil": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29379,6 +32405,10 @@
 	"Stint Ultra Condensed": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29401,6 +32431,10 @@
 	"Stint Ultra Expanded": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29423,6 +32457,10 @@
 	"Stoke": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -29458,6 +32496,9 @@
 	"Strait": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29480,6 +32521,9 @@
 	"Sue Ellen Francisco": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29502,6 +32546,11 @@
 	"Suez One": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29524,6 +32573,11 @@
 	"Sumana": {
 		"category": "serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29559,6 +32613,9 @@
 	"Sunshiney": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29580,6 +32637,9 @@
 	"Supermercado One": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29602,6 +32662,11 @@
 	"Sura": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29637,6 +32702,10 @@
 	"Suranna": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29658,6 +32727,10 @@
 	"Suravaram": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29679,6 +32752,9 @@
 	"Suwannaphum": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29700,6 +32776,9 @@
 	"Swanky and Moo Moo": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29722,6 +32801,9 @@
 	"Syncopate": {
 		"category": "sans-serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29757,6 +32839,9 @@
 	"Tangerine": {
 		"category": "handwriting",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29791,6 +32876,9 @@
 	"Taprom": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"khmer"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29812,6 +32900,10 @@
 	"Tauri": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -29834,6 +32926,12 @@
 	"Taviraj": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -30079,6 +33177,11 @@
 	"Teko": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -30153,6 +33256,10 @@
 	"Telex": {
 		"category": "sans-serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30175,6 +33282,10 @@
 	"Tenali Ramakrishna": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30197,6 +33308,11 @@
 	"Tenor Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30219,6 +33335,10 @@
 	"Text Me One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30241,6 +33361,9 @@
 	"The Girl Next Door": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30263,6 +33386,9 @@
 	"Tienne": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30311,6 +33437,11 @@
 	"Tillana": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30385,6 +33516,10 @@
 	"Timmana": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"telugu",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30406,6 +33541,16 @@
 	"Tinos": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"hebrew",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -30468,6 +33613,10 @@
 	"Titan One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30490,6 +33639,10 @@
 	"Titillium Web": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"200": {
@@ -30644,6 +33797,9 @@
 	"Trade Winds": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30666,6 +33822,12 @@
 	"Trirong": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"thai",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"100": {
@@ -30911,6 +34073,10 @@
 	"Trocchi": {
 		"category": "serif",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -30933,6 +34099,9 @@
 	"Trochut": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -30982,6 +34151,10 @@
 	"Trykker": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31004,6 +34177,9 @@
 	"Tulpen One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31026,6 +34202,14 @@
 	"Ubuntu": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-03",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"300": {
@@ -31140,6 +34324,14 @@
 	"Ubuntu Condensed": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-03",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31162,6 +34354,14 @@
 	"Ubuntu Mono": {
 		"category": "monospace",
 		"lastModified": "2016-06-03",
+		"subsets": [
+			"latin-ext",
+			"greek",
+			"greek-ext",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -31225,6 +34425,9 @@
 	"Ultra": {
 		"category": "serif",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31246,6 +34449,9 @@
 	"Uncial Antiqua": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31268,6 +34474,11 @@
 	"Underdog": {
 		"category": "display",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31290,6 +34501,10 @@
 	"Unica One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31312,6 +34527,9 @@
 	"UnifrakturCook": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"700": {
@@ -31334,6 +34552,9 @@
 	"UnifrakturMaguntia": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31355,6 +34576,9 @@
 	"Unkempt": {
 		"category": "display",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31389,6 +34613,9 @@
 	"Unlock": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31411,6 +34638,10 @@
 	"Unna": {
 		"category": "serif",
 		"lastModified": "2017-01-26",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -31474,6 +34705,11 @@
 	"VT323": {
 		"category": "monospace",
 		"lastModified": "2016-12-08",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31496,6 +34732,10 @@
 	"Vampiro One": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31518,6 +34758,10 @@
 	"Varela": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31539,6 +34783,12 @@
 	"Varela Round": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-11",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"hebrew",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31561,6 +34811,9 @@
 	"Vast Shadow": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31583,6 +34836,11 @@
 	"Vesper Libre": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31644,6 +34902,9 @@
 	"Vibur": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31665,6 +34926,9 @@
 	"Vidaloka": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31687,6 +34951,10 @@
 	"Viga": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31708,6 +34976,10 @@
 	"Voces": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31730,6 +35002,9 @@
 	"Volkhov": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -31793,6 +35068,9 @@
 	"Vollkorn": {
 		"category": "serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"italic": {
 				"400": {
@@ -31856,6 +35134,9 @@
 	"Voltaire": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31877,6 +35158,9 @@
 	"Waiting for the Sunrise": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31899,6 +35183,9 @@
 	"Wallpoet": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31920,6 +35207,9 @@
 	"Walter Turncoat": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31942,6 +35232,10 @@
 	"Warnes": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31964,6 +35258,10 @@
 	"Wellfleet": {
 		"category": "display",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -31986,6 +35284,10 @@
 	"Wendy One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32008,6 +35310,9 @@
 	"Wire One": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32030,6 +35335,10 @@
 	"Work Sans": {
 		"category": "sans-serif",
 		"lastModified": "2016-06-07",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -32156,6 +35465,12 @@
 	"Yanone Kaffeesatz": {
 		"category": "sans-serif",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"200": {
@@ -32217,6 +35532,11 @@
 	"Yantramanav": {
 		"category": "sans-serif",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"100": {
@@ -32304,6 +35624,11 @@
 	"Yatra One": {
 		"category": "display",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin",
+			"devanagari"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32326,6 +35651,9 @@
 	"Yellowtail": {
 		"category": "handwriting",
 		"lastModified": "2016-10-05",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32347,6 +35675,13 @@
 	"Yeseva One": {
 		"category": "display",
 		"lastModified": "2017-01-20",
+		"subsets": [
+			"latin-ext",
+			"vietnamese",
+			"cyrillic-ext",
+			"latin",
+			"cyrillic"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32369,6 +35704,9 @@
 	"Yesteryear": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
@@ -32391,6 +35729,10 @@
 	"Yrsa": {
 		"category": "serif",
 		"lastModified": "2016-06-20",
+		"subsets": [
+			"latin-ext",
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"300": {
@@ -32465,6 +35807,9 @@
 	"Zeyada": {
 		"category": "handwriting",
 		"lastModified": "2016-05-31",
+		"subsets": [
+			"latin"
+		],
 		"variants": {
 			"normal": {
 				"400": {
