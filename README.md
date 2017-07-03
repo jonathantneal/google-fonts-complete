@@ -30,9 +30,18 @@ This list is generated from the [Google Fonts API].
 
 ## Using the generator
 
-Use the [Google Fonts API] to create `api-response.json`.
+Create the `api-response.json` using a script:
+```sh
+npm run generateList {YOUR_API_KEY}
+```
+Or use the [Google Fonts API] to create `api-response.json` manually.
 
 Then, use the generator to create `google-fonts.json`.
+
+```sh
+npm run generateFonts
+```
+or
 
 ```sh
 node ./google-fonts-generator.js
