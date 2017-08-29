@@ -1,32 +1,13 @@
 const URL = 'https://www.googleapis.com/webfonts/v1/webfonts?fields=items(category%2Cfamily%2ClastModified%2Csubsets%2Cvariants%2Cversion)&key=';
 
-const fs = require('fs');
-const https = require('https');
+const fs = require('mz/fs');
+const { fetch } = require('fetch-ponyfill')({});
 
-function fetchGoogleFontsList(url, key) {
-  return new Promise(((resolve, reject) => {
-    const req = https.get(url + key, (res) => {
-      if (res.statusCode < 200 || res.statusCode > 299) {
-        reject(new Error(`Failed to load list, status code: ${res.statusCode}`));
-      }
-
-      let rawData = '';
-      res.setEncoding('utf8');
-
-      res.on('data', chunk => rawData += chunk);
-      res.on('end', () => {
-        try {
-          const list = JSON.parse(rawData);
-          resolve(list.items);
-        } catch (e) {
-          reject(new Error(e.message));
-        }
-      });
-    });
-
-    // handle connection errors of the request
-    req.on('error', err => reject(err));
-  }));
+async function fetchGoogleFontsList(url, key) {
+  const result = await fetch(url + key);
+  const json = await result.json();
+  console.log('Download complete');
+  await fs.writeFile('api-response.json', JSON.stringify(json.items, null, '\t'));
 }
 
 const key = process.argv[2];
@@ -36,9 +17,4 @@ if (key === undefined) {
   process.exit(1);
 }
 
-fetchGoogleFontsList(URL, key)
-  .then((list) => {
-    fs.writeFile('api-response.json', JSON.stringify(list, null, '\t'), () => {
-      console.log('Operation complete.');
-    });
-  });
+fetchGoogleFontsList(URL, key);
