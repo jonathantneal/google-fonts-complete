@@ -42,6 +42,7 @@
         "eslint-plugin-react": "^7.3.0",
         "fetch-ponyfill": "^4.1.0",
         "mz": "^2.6.0",
-        "postcss": "^4.1.16"
+        "postcss": "^4.1.16",
+        "promise-retry": "^1.1.1"
     }
 }
