@@ -68,6 +68,7 @@ function metadata(decls) {
   return _.flow(
     _.flatMap(v => postcss.list.comma(v.decl.value)),
     _.map(processSrc),
+    _.reject(v => v.path.startsWith('https://fonts.gstatic.com/stats/')),
   )(srcs);
 }
 
