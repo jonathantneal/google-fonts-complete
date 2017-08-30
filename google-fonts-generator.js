@@ -8,9 +8,12 @@ const _ = require('lodash/fp');
 const { fetch } = require('fetch-ponyfill')({});
 const postcss = require('postcss');
 const promiseRetry = require('promise-retry');
+const { Semaphore } = require('await-semaphore');
 
 const postcssProcessor = postcss();
 const userAgents = require('./user-agents.json');
+
+const semaphore = new Semaphore(64);
 
 function getSortedObject(object) {
   const sortedObject = {};
@@ -133,6 +136,13 @@ function properPromiseRetry(fn, options) {
   return promiseRetry(wrapper, options);
 }
 
+function getFontDecorated(ua, format, family, variant) {
+  return properPromiseRetry(
+    () => semaphore.use(() => getFont(ua, format, family, variant)),
+    { randomize: true },
+  );
+}
+
 function eachFont(font) {
   const family = font.family;
   const variants = font.variants;
@@ -140,10 +150,7 @@ function eachFont(font) {
   function fetchForVariant(variant) {
     return _.flow(
       _.toPairs,
-      _.map(([format, ua]) => properPromiseRetry(
-        () => getFont(ua, format, family, variant),
-        { randomize: true },
-      )),
+      _.map(([format, ua]) => getFontDecorated(ua, format, family, variant)),
       flattenPromises,
     )(userAgents);
   }
