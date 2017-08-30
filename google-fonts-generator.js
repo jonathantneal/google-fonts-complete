@@ -199,8 +199,8 @@ async function doIt() {
     )),
   )(fonts);
 
+  await fs.writeFile('google-fonts-linear.json', JSON.stringify(res));
   const obj = _.reduce(reducer, init, res);
-
   const json = JSON.stringify(getSortedObject(obj), null, '\t');
   await fs.writeFile('google-fonts.json', json);
   console.log('Operation complete');
