@@ -21,24 +21,28 @@ function properPromiseRetry(fn, options) {
   return promiseRetry(wrapper, options);
 }
 
-const all = Promise.all;
-
 async function downloadAndSaveFont(font) {
   const { path: url, fontStyle, fontWeight, family, format } = font;
   const dir = path.join('fonts', family, fontStyle, fontWeight);
   const fname = path.join(dir, `font.${format}`);
   async function getWriteStream() {
     await fs.mkdirp(dir);
-    return fs.createWriteStream(fname);
+    // return fs.createWriteStream(fname);
   }
 
-  function getReadStream() {
-    return fetch(url);
+  async function getReadStream() {
+    const res = await fetch(url);
+    if (!res.ok) {
+      throw new Error(`failed to download ${fname}`);
+    }
+    // return res.body;
+    return res.buffer();
   }
 
   console.log('started', fname);
   const [readStream, writeStream] = await Promise.all([getReadStream(), getWriteStream()]);
-  await promisePipe(readStream, writeStream);
+  await fs.writeFile(fname, readStream);
+  // await promisePipe(readStream, writeStream);
   console.log('Downloaded', fname);
 }
 
