@@ -68,8 +68,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"latin",
+			"latin-ext",
 			"sinhala"
 		],
 		"variants": {
@@ -147,8 +147,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -273,9 +273,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"greek",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -378,8 +378,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -404,8 +404,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -430,8 +430,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -520,8 +520,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -613,8 +613,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -706,13 +706,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -908,13 +908,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -1110,8 +1110,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1136,9 +1136,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -1164,8 +1164,8 @@
 		"lastModified": "2017-08-24",
 		"subsets": [
 			"cyrillic",
-			"latin",
-			"cyrillic-ext"
+			"cyrillic-ext",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -1240,8 +1240,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1329,8 +1329,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1355,8 +1355,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -1422,8 +1422,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1473,8 +1473,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1566,9 +1566,9 @@
 		"lastModified": "2017-08-24",
 		"subsets": [
 			"hebrew",
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -1607,8 +1607,8 @@
 		"lastModified": "2017-08-24",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1671,9 +1671,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1724,9 +1724,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -1792,9 +1792,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1832,8 +1832,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1858,8 +1858,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -1884,11 +1884,11 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -1963,10 +1963,10 @@
 		"category": "monospace",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
 			"greek",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -2107,9 +2107,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -2174,8 +2174,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2200,8 +2200,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2251,9 +2251,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -2371,8 +2371,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2397,8 +2397,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -2516,8 +2516,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -2555,10 +2555,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"tamil",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -2674,14 +2674,14 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"cyrillic",
+			"cyrillic-ext",
+			"greek",
 			"greek-ext",
 			"hebrew",
-			"latin-ext",
-			"cyrillic",
-			"vietnamese",
-			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -2747,8 +2747,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2773,8 +2773,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2799,11 +2799,11 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -2959,9 +2959,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -2999,9 +2999,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -3119,9 +3119,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-02",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -3239,9 +3239,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3458,10 +3458,10 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -3551,9 +3551,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"bengali",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3680,8 +3680,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3706,8 +3706,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3732,8 +3732,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3758,8 +3758,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -3784,8 +3784,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4112,8 +4112,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4138,10 +4138,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4166,10 +4166,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4194,10 +4194,10 @@
 		"category": "display",
 		"lastModified": "2017-08-15",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4222,10 +4222,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"oriya",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4250,10 +4250,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
 			"malayalam",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4278,10 +4278,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"bengali",
-			"vietnamese",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4306,10 +4306,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
 			"gurmukhi",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4334,10 +4334,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
 			"kannada",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4362,10 +4362,10 @@
 		"category": "display",
 		"lastModified": "2017-08-21",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"telugu",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4390,10 +4390,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"tamil",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4443,9 +4443,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4470,8 +4470,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4496,8 +4496,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4636,8 +4636,8 @@
 		"lastModified": "2017-06-27",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4662,8 +4662,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4688,8 +4688,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4765,8 +4765,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4791,9 +4791,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -4818,8 +4818,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4869,8 +4869,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4895,8 +4895,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4921,8 +4921,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -4999,8 +4999,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5077,9 +5077,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5182,8 +5182,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -5236,8 +5236,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5362,8 +5362,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5413,8 +5413,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5439,8 +5439,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5465,8 +5465,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5516,8 +5516,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5555,9 +5555,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -5582,9 +5582,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -5609,9 +5609,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -5636,9 +5636,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -5663,9 +5663,9 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -5690,8 +5690,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5716,8 +5716,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -5742,9 +5742,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -5862,9 +5862,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -6016,9 +6016,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6133,9 +6133,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -6316,8 +6316,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6342,8 +6342,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6368,8 +6368,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6394,10 +6394,10 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"greek",
-			"latin"
+			"greek-ext",
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -6548,11 +6548,11 @@
 	},
 	"Catamaran": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-24",
+		"lastModified": "2017-08-31",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"tamil",
-			"latin"
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -6562,11 +6562,11 @@
 						"'Catamaran-Thin'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc2fQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=AsJXcel0VOprDS7k9OVAc3NsigHlcrQGNV8nkUSFQfc&skey=a9b56938d2f1cef2&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc50EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc4bN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc44P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/AsJXcel0VOprDS7k9OVAc2fQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=AsJXcel0VOprDS7k9OVAc3NsigHlcrQGNV8nkUSFQfc&skey=a9b56938d2f1cef2&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/AsJXcel0VOprDS7k9OVAc50EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/AsJXcel0VOprDS7k9OVAc4bN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/AsJXcel0VOprDS7k9OVAc44P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				},
 				"200": {
@@ -6575,11 +6575,11 @@
 						"'Catamaran-ExtraLight'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=hFc-HKSsGk6M-psujei1MFlIn5tFQcqMuf-jhyJP0ps&skey=94ef7a70ab64c3a3&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/hFc-HKSsGk6M-psujei1MHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=hFc-HKSsGk6M-psujei1MFlIn5tFQcqMuf-jhyJP0ps&skey=94ef7a70ab64c3a3&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/hFc-HKSsGk6M-psujei1MInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/hFc-HKSsGk6M-psujei1MHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/hFc-HKSsGk6M-psujei1MOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"300": {
@@ -6588,24 +6588,24 @@
 						"'Catamaran-Light'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=Aaag4ccR7Oh_4eai-jbrYFlIn5tFQcqMuf-jhyJP0ps&skey=4b5f965596e3b29f&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/Aaag4ccR7Oh_4eai-jbrYHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=Aaag4ccR7Oh_4eai-jbrYFlIn5tFQcqMuf-jhyJP0ps&skey=4b5f965596e3b29f&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/Aaag4ccR7Oh_4eai-jbrYInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/Aaag4ccR7Oh_4eai-jbrYHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/Aaag4ccR7Oh_4eai-jbrYOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"400": {
 					"local": [
-						"'Catamaran'",
+						"'Catamaran Regular'",
 						"'Catamaran-Regular'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecvY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=iVYgK2bOLvZcSxr0ITOecpbd9NUM7myrQQz30yPaGQ4&skey=309d941a05fc0762&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecqCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecj8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecltXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/iVYgK2bOLvZcSxr0ITOecvY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=iVYgK2bOLvZcSxr0ITOecpbd9NUM7myrQQz30yPaGQ4&skey=309d941a05fc0762&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/iVYgK2bOLvZcSxr0ITOecqCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/iVYgK2bOLvZcSxr0ITOecj8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/iVYgK2bOLvZcSxr0ITOecltXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				},
 				"500": {
@@ -6614,11 +6614,11 @@
 						"'Catamaran-Medium'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=83WSX3F86qsvj1Z4EI0tQllIn5tFQcqMuf-jhyJP0ps&skey=1f7c0bfcad7e7889&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQonF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/83WSX3F86qsvj1Z4EI0tQnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=83WSX3F86qsvj1Z4EI0tQllIn5tFQcqMuf-jhyJP0ps&skey=1f7c0bfcad7e7889&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/83WSX3F86qsvj1Z4EI0tQonF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/83WSX3F86qsvj1Z4EI0tQnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/83WSX3F86qsvj1Z4EI0tQugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"600": {
@@ -6627,11 +6627,11 @@
 						"'Catamaran-SemiBold'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=a9PlHHnuBWiGGk0TwuFKTllIn5tFQcqMuf-jhyJP0ps&skey=6135f1cc0c1b3810&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTonF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTugdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/a9PlHHnuBWiGGk0TwuFKTnZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=a9PlHHnuBWiGGk0TwuFKTllIn5tFQcqMuf-jhyJP0ps&skey=6135f1cc0c1b3810&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/a9PlHHnuBWiGGk0TwuFKTonF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/a9PlHHnuBWiGGk0TwuFKTnhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/a9PlHHnuBWiGGk0TwuFKTugdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"700": {
@@ -6640,11 +6640,11 @@
 						"'Catamaran-Bold'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3Z2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=PpgVtUHUdnBZYNpnzGbSc1lIn5tFQcqMuf-jhyJP0ps&skey=57b3a2830111dbc0&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc4nF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3hCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc-gdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/PpgVtUHUdnBZYNpnzGbSc3Z2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=PpgVtUHUdnBZYNpnzGbSc1lIn5tFQcqMuf-jhyJP0ps&skey=57b3a2830111dbc0&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/PpgVtUHUdnBZYNpnzGbSc4nF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/PpgVtUHUdnBZYNpnzGbSc3hCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/PpgVtUHUdnBZYNpnzGbSc-gdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"800": {
@@ -6653,11 +6653,11 @@
 						"'Catamaran-ExtraBold'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHZ2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=6VjB_uSfn3DZ93IQv58CmFlIn5tFQcqMuf-jhyJP0ps&skey=474b56ec2b042111&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmInF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHhCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmOgdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/6VjB_uSfn3DZ93IQv58CmHZ2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=6VjB_uSfn3DZ93IQv58CmFlIn5tFQcqMuf-jhyJP0ps&skey=474b56ec2b042111&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/6VjB_uSfn3DZ93IQv58CmInF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/6VjB_uSfn3DZ93IQv58CmHhCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/6VjB_uSfn3DZ93IQv58CmOgdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				},
 				"900": {
@@ -6666,25 +6666,25 @@
 						"'Catamaran-Black'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3Z2MAKAc2x4R1uOSeegc5U.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=5ys9TqpQc9Q6gHqbSox6p1lIn5tFQcqMuf-jhyJP0ps&skey=9770b7dd9fa233f5&v=v2#Catamaran",
-						"ttf": "https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p4nF5uFdDttMLvmWuJdhhgs.ttf",
-						"woff": "https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3hCUOGz7vYGh680lGh-uXM.woff",
-						"woff2": "https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p-gdm0LZdjqr5-oayXSOefg.woff2"
+						"eot": "https://fonts.gstatic.com/s/catamaran/v3/5ys9TqpQc9Q6gHqbSox6p3Z2MAKAc2x4R1uOSeegc5U.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=5ys9TqpQc9Q6gHqbSox6p1lIn5tFQcqMuf-jhyJP0ps&skey=9770b7dd9fa233f5&v=v3#Catamaran",
+						"ttf": "https://fonts.gstatic.com/s/catamaran/v3/5ys9TqpQc9Q6gHqbSox6p4nF5uFdDttMLvmWuJdhhgs.ttf",
+						"woff": "https://fonts.gstatic.com/s/catamaran/v3/5ys9TqpQc9Q6gHqbSox6p3hCUOGz7vYGh680lGh-uXM.woff",
+						"woff2": "https://fonts.gstatic.com/s/catamaran/v3/5ys9TqpQc9Q6gHqbSox6p-gdm0LZdjqr5-oayXSOefg.woff2"
 					}
 				}
 			}
 		},
-		"version": "v2"
+		"version": "v3"
 	},
 	"Caudex": {
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"greek",
-			"latin"
+			"greek-ext",
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -6749,8 +6749,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6788,8 +6788,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6839,8 +6839,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -6865,9 +6865,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7010,8 +7010,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7036,8 +7036,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -7114,8 +7114,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -7155,8 +7155,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7181,8 +7181,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7256,8 +7256,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7320,8 +7320,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7346,8 +7346,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -7465,10 +7465,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -7491,9 +7491,10 @@
 	},
 	"Cinzel": {
 		"category": "serif",
-		"lastModified": "2017-08-24",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7503,11 +7504,11 @@
 						"'Cinzel-Regular'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/cinzel/v5/AJV8Cpuc3TnmQZiYfRqP9Q.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=eDhPXP9v8KvQomWB84nKuQ&skey=f319ae43d1034808&v=v5#Cinzel",
-						"ttf": "https://fonts.gstatic.com/s/cinzel/v5/Hm1qjDlZpOdVXoa-QGE7_w.ttf",
-						"woff": "https://fonts.gstatic.com/s/cinzel/v5/mLL0ZqnXRx3m16FnBy9gcg.woff",
-						"woff2": "https://fonts.gstatic.com/s/cinzel/v5/zOdksD_UUTk1LJF9z4tURA.woff2"
+						"eot": "https://fonts.gstatic.com/s/cinzel/v6/AJV8Cpuc3TnmQZiYfRqP9Q.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=eDhPXP9v8KvQomWB84nKuQ&skey=f319ae43d1034808&v=v6#Cinzel",
+						"ttf": "https://fonts.gstatic.com/s/cinzel/v6/Hm1qjDlZpOdVXoa-QGE7_w.ttf",
+						"woff": "https://fonts.gstatic.com/s/cinzel/v6/mLL0ZqnXRx3m16FnBy9gcg.woff",
+						"woff2": "https://fonts.gstatic.com/s/cinzel/v6/zOdksD_UUTk1LJF9z4tURA.woff2"
 					}
 				},
 				"700": {
@@ -7516,11 +7517,11 @@
 						"'Cinzel-Bold'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1fY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=L74890HNVnUypqWjqGUt1Zbd9NUM7myrQQz30yPaGQ4&skey=d0bd7ac4911fce5f&v=v5#Cinzel",
-						"ttf": "https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1aCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1T8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1VtXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "https://fonts.gstatic.com/s/cinzel/v6/L74890HNVnUypqWjqGUt1fY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=L74890HNVnUypqWjqGUt1Zbd9NUM7myrQQz30yPaGQ4&skey=d0bd7ac4911fce5f&v=v6#Cinzel",
+						"ttf": "https://fonts.gstatic.com/s/cinzel/v6/L74890HNVnUypqWjqGUt1aCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "https://fonts.gstatic.com/s/cinzel/v6/L74890HNVnUypqWjqGUt1T8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "https://fonts.gstatic.com/s/cinzel/v6/L74890HNVnUypqWjqGUt1VtXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				},
 				"900": {
@@ -7529,16 +7530,16 @@
 						"'Cinzel-Black'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tfY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=u8CPqNcpTcF_eDy_SWp9tZbd9NUM7myrQQz30yPaGQ4&skey=be449759839bebc9&v=v5#Cinzel",
-						"ttf": "https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9taCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tT8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tVtXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "https://fonts.gstatic.com/s/cinzel/v6/u8CPqNcpTcF_eDy_SWp9tfY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=u8CPqNcpTcF_eDy_SWp9tZbd9NUM7myrQQz30yPaGQ4&skey=be449759839bebc9&v=v6#Cinzel",
+						"ttf": "https://fonts.gstatic.com/s/cinzel/v6/u8CPqNcpTcF_eDy_SWp9taCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "https://fonts.gstatic.com/s/cinzel/v6/u8CPqNcpTcF_eDy_SWp9tT8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "https://fonts.gstatic.com/s/cinzel/v6/u8CPqNcpTcF_eDy_SWp9tVtXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				}
 			}
 		},
-		"version": "v5"
+		"version": "v6"
 	},
 	"Cinzel Decorative": {
 		"category": "display",
@@ -7595,8 +7596,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7621,8 +7622,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7660,8 +7661,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7686,8 +7687,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7724,10 +7725,10 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"tamil",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -7752,8 +7753,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7778,12 +7779,12 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -7859,8 +7860,8 @@
 		"category": "display",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -7885,8 +7886,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -8043,10 +8044,10 @@
 	},
 	"Corben": {
 		"category": "display",
-		"lastModified": "2017-08-24",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -8056,11 +8057,11 @@
 						"'Corben-Regular'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/corben/v9/oPh_f4hFy1UEN5VkrZ4FJw.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=DwGjY7pic_9BgGYmegARuw&skey=795061005e976bd6&v=v9#Corben",
-						"ttf": "https://fonts.gstatic.com/s/corben/v9/aAJbkLknKhfXxsbVwcGZiA.ttf",
-						"woff": "https://fonts.gstatic.com/s/corben/v9/aTjzBnce-6l9sMpae8_abg.woff",
-						"woff2": "https://fonts.gstatic.com/s/corben/v9/EvCyyDNpF00ipP8gU9sM8g.woff2"
+						"eot": "https://fonts.gstatic.com/s/corben/v10/oPh_f4hFy1UEN5VkrZ4FJw.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=DwGjY7pic_9BgGYmegARuw&skey=795061005e976bd6&v=v10#Corben",
+						"ttf": "https://fonts.gstatic.com/s/corben/v10/aAJbkLknKhfXxsbVwcGZiA.ttf",
+						"woff": "https://fonts.gstatic.com/s/corben/v10/aTjzBnce-6l9sMpae8_abg.woff",
+						"woff2": "https://fonts.gstatic.com/s/corben/v10/EvCyyDNpF00ipP8gU9sM8g.woff2"
 					}
 				},
 				"700": {
@@ -8068,26 +8069,26 @@
 						"'Corben'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/corben/v9/ljkAb4w-83fUltRn9aENdfY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=ljkAb4w-83fUltRn9aENdZbd9NUM7myrQQz30yPaGQ4&skey=f18040a69657653b&v=v9#Corben",
-						"ttf": "https://fonts.gstatic.com/s/corben/v9/ljkAb4w-83fUltRn9aENdaCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "https://fonts.gstatic.com/s/corben/v9/ljkAb4w-83fUltRn9aENdT8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "https://fonts.gstatic.com/s/corben/v9/ljkAb4w-83fUltRn9aENdVtXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "https://fonts.gstatic.com/s/corben/v10/ljkAb4w-83fUltRn9aENdfY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=ljkAb4w-83fUltRn9aENdZbd9NUM7myrQQz30yPaGQ4&skey=f18040a69657653b&v=v10#Corben",
+						"ttf": "https://fonts.gstatic.com/s/corben/v10/ljkAb4w-83fUltRn9aENdaCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "https://fonts.gstatic.com/s/corben/v10/ljkAb4w-83fUltRn9aENdT8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "https://fonts.gstatic.com/s/corben/v10/ljkAb4w-83fUltRn9aENdVtXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				}
 			}
 		},
-		"version": "v9"
+		"version": "v10"
 	},
 	"Cormorant": {
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -8231,11 +8232,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -8379,11 +8380,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -8527,11 +8528,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -8608,11 +8609,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -8689,9 +8690,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -8768,8 +8769,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -8794,14 +8795,14 @@
 		"category": "monospace",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"cyrillic",
+			"cyrillic-ext",
+			"greek",
 			"greek-ext",
 			"hebrew",
-			"latin-ext",
-			"cyrillic",
-			"vietnamese",
-			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -8980,8 +8981,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -9113,8 +9114,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9164,11 +9165,11 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -9234,8 +9235,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9260,8 +9261,8 @@
 		"category": "monospace",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9310,9 +9311,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -9375,9 +9376,9 @@
 		"lastModified": "2017-08-28",
 		"subsets": [
 			"hebrew",
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -9478,9 +9479,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9616,8 +9617,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9642,8 +9643,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9667,8 +9668,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -9692,12 +9693,12 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9722,8 +9723,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9748,8 +9749,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9774,8 +9775,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9813,8 +9814,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9839,8 +9840,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9890,8 +9891,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -9994,8 +9995,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10149,8 +10150,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10175,8 +10176,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10201,11 +10202,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -10230,8 +10231,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10256,8 +10257,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10282,8 +10283,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -10349,9 +10350,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10428,9 +10429,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"arabic",
 			"cyrillic",
-			"latin",
-			"arabic"
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -10519,8 +10520,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10558,8 +10559,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10597,8 +10598,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10623,8 +10624,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -10649,9 +10650,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -10780,9 +10781,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -10911,9 +10912,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -11042,9 +11043,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -11173,9 +11174,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -11329,8 +11330,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11355,8 +11356,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11392,8 +11393,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11418,8 +11419,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11443,8 +11444,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11469,8 +11470,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -11495,9 +11496,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -11745,9 +11746,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -12153,10 +12154,10 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -12281,8 +12282,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -12307,9 +12308,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-02",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -12477,8 +12478,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -12503,8 +12504,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -12554,12 +12555,12 @@
 		"category": "monospace",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -12610,13 +12611,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -12864,13 +12865,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -13118,13 +13119,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -13372,8 +13373,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13486,8 +13487,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -13551,10 +13552,10 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13578,9 +13579,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -13606,8 +13607,8 @@
 		"lastModified": "2017-08-28",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13684,8 +13685,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13784,8 +13785,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13833,8 +13834,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -13976,8 +13977,8 @@
 		"lastModified": "2017-08-28",
 		"subsets": [
 			"cyrillic",
-			"latin",
-			"cyrillic-ext"
+			"cyrillic-ext",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -14002,8 +14003,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14079,8 +14080,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14105,8 +14106,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -14172,8 +14173,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -14354,8 +14355,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -14379,8 +14380,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14430,8 +14431,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14456,9 +14457,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14659,8 +14660,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14710,8 +14711,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14736,8 +14737,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14762,8 +14763,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14787,8 +14788,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -14840,8 +14841,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -14865,8 +14866,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14891,9 +14892,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14970,8 +14971,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -14996,8 +14997,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15022,8 +15023,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15111,8 +15112,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15137,8 +15138,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -15163,8 +15164,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15318,8 +15319,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15344,9 +15345,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15423,9 +15424,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"telugu",
-			"latin"
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -15502,9 +15503,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"tamil",
-			"latin"
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -15581,9 +15582,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"bengali",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -15660,9 +15661,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16189,8 +16190,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16215,9 +16216,9 @@
 		"category": "monospace",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -16255,8 +16256,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16306,8 +16307,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16344,9 +16345,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16474,10 +16475,10 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -16568,8 +16569,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16594,10 +16595,10 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -16672,9 +16673,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16712,8 +16713,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16738,8 +16739,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16764,8 +16765,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16790,9 +16791,9 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -16815,11 +16816,11 @@
 	},
 	"Josefin Sans": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-28",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -16957,7 +16958,7 @@
 				}
 			}
 		},
-		"version": "v10"
+		"version": "v11"
 	},
 	"Josefin Slab": {
 		"category": "serif",
@@ -17107,8 +17108,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17133,9 +17134,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -17212,8 +17213,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17263,13 +17264,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -17371,8 +17372,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17436,9 +17437,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17526,10 +17527,10 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -17827,8 +17828,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -17894,9 +17895,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17973,9 +17974,9 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -17999,8 +18000,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18025,9 +18026,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"tamil",
-			"latin"
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -18052,8 +18053,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18103,8 +18104,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18129,9 +18130,9 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18181,9 +18182,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18284,9 +18285,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18388,8 +18389,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18414,8 +18415,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18565,8 +18566,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18591,9 +18592,9 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18618,9 +18619,9 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18645,11 +18646,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"devanagari",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18699,9 +18700,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18778,8 +18779,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -18804,10 +18805,10 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -18832,8 +18833,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -18857,8 +18858,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -18882,8 +18883,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -19077,9 +19078,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -19104,8 +19105,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -19181,10 +19182,10 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"vietnamese",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -19244,12 +19245,162 @@
 		},
 		"version": "v2"
 	},
+	"Libre Barcode 128": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 128 Regular'",
+						"'LibreBarcode128-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode128/v3/mJ_rGOyyL62_i4eysdBvxLYR-_ZoKq17evgZX6d5Opc.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=mJ_rGOyyL62_i4eysdBvxC4CnEiaFaoxMdoP5JYCuoo&skey=b4e8c1d4fad3a49&v=v3#LibreBarcode128",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode128/v3/mJ_rGOyyL62_i4eysdBvxPDyRCAlSAmliknZgt5tlaQ.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode128/v3/mJ_rGOyyL62_i4eysdBvxH0dEt-Ts16fJ-eW9jd9vx8.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode128/v3/mJ_rGOyyL62_i4eysdBvxO1xeuGHyM7UnjkZNOUC490.woff2"
+					}
+				}
+			}
+		},
+		"version": "v3"
+	},
+	"Libre Barcode 128 Text": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 128 Text Regular'",
+						"'LibreBarcode128Text-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode128text/v3/T1o66XlW_PeuHiRa8wDOJC38ui_JfD9kEvyiIUVaZhg.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=T1o66XlW_PeuHiRa8wDOJKYp5-DQHF8LdOgs0ZbSGW0&skey=d0b4a7e3a2472aa4&v=v3#LibreBarcode128Text",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode128text/v3/T1o66XlW_PeuHiRa8wDOJFxZtoVb0mZxA3_2FeZ1M9g.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode128text/v3/T1o66XlW_PeuHiRa8wDOJIKaO1ZxHjEatAze7bYlO_Q.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode128text/v3/T1o66XlW_PeuHiRa8wDOJALohQwHnEZA2rfi-H4ePTo.woff2"
+					}
+				}
+			}
+		},
+		"version": "v3"
+	},
+	"Libre Barcode 39": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 39 Regular'",
+						"'LibreBarcode39-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode39/v3/tsmYkcVN_FjeCmyWhRNQuJLBVJc8zT9QGp0acgOOlzE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=tsmYkcVN_FjeCmyWhRNQuEWABdnjdai-T9L85AiB694&skey=669a7227d05d7508&v=v3#LibreBarcode39",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode39/v3/tsmYkcVN_FjeCmyWhRNQuCu4YcIE_RArnD6ddAC6bhU.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode39/v3/tsmYkcVN_FjeCmyWhRNQuAqC1-XZyyUDQWUBodjV-ls.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode39/v3/tsmYkcVN_FjeCmyWhRNQuJm_oOtUjC5ylz94bgAcf30.woff2"
+					}
+				}
+			}
+		},
+		"version": "v3"
+	},
+	"Libre Barcode 39 Extended": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 39 Extended'",
+						"'LibreBarcode39Extended-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode39extended/v2/fb2-vuy0PLrmtXyLBPV4KBKFBrrVBJfdahtI7awDPVP2Ot9t5h1GRSTIE78Whtoh.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=fb2-vuy0PLrmtXyLBPV4KBKFBrrVBJfdahtI7awDPVOW3fTVDO5sq0EM99Mj2hkO&skey=30c2ccc8c0bb6de6&v=v2#LibreBarcode39Extended",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode39extended/v2/fb2-vuy0PLrmtXyLBPV4KBKFBrrVBJfdahtI7awDPVOglnMp3_3A8V8Ai8YosRtX.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode39extended/v2/fb2-vuy0PLrmtXyLBPV4KBKFBrrVBJfdahtI7awDPVM_BNIuymZ_hD58qNx2bu5M.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode39extended/v2/fb2-vuy0PLrmtXyLBPV4KBKFBrrVBJfdahtI7awDPVNbV0WvE1cEyAoIq5yYZlSc.woff2"
+					}
+				}
+			}
+		},
+		"version": "v2"
+	},
+	"Libre Barcode 39 Extended Text": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 39 Extended Text'",
+						"'LibreBarcode39ExtendedText-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v2/wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cvf9ZPL1N6MzPLgN4qe0aB_.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cvQ4MSJd2wdyM9e2QTBYW1a&skey=3240354573fd446e&v=v2#LibreBarcode39ExtendedText",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v2/wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cuxSxSOytwIAWM41ikuc6g0.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v2/wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cvXJ36_St4Jk-5FK2PyqG5c.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode39extendedtext/v2/wJsqK3E245PKDhdHYS7MabGP_8dGDh0UJYBW4DYg-cvRhOZc7W1LgJkNINyVr49O.woff2"
+					}
+				}
+			}
+		},
+		"version": "v2"
+	},
+	"Libre Barcode 39 Text": {
+		"category": "display",
+		"lastModified": "2017-08-31",
+		"subsets": [
+			"latin"
+		],
+		"variants": {
+			"normal": {
+				"400": {
+					"local": [
+						"'Libre Barcode 39 Text Regular'",
+						"'LibreBarcode39Text-Regular'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/librebarcode39text/v3/O4inMvtTcDsw_GI-nhT1noYuwsxJuqxsRAWQgj1c1-M.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=O4inMvtTcDsw_GI-nhT1nukrzcB4OqzY5weyPGnV_rw&skey=a91ebaf074a37bd0&v=v3#LibreBarcode39Text",
+						"ttf": "https://fonts.gstatic.com/s/librebarcode39text/v3/O4inMvtTcDsw_GI-nhT1nulTB9vD0CsoDp3n2q5acOQ.ttf",
+						"woff": "https://fonts.gstatic.com/s/librebarcode39text/v3/O4inMvtTcDsw_GI-nhT1nqjy5h77AeGiASQWBq_Mt68.woff",
+						"woff2": "https://fonts.gstatic.com/s/librebarcode39text/v3/O4inMvtTcDsw_GI-nhT1ngA9s1DpUaeSeqfKrIEfYns.woff2"
+					}
+				}
+			}
+		},
+		"version": "v3"
+	},
 	"Libre Baskerville": {
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -19302,8 +19453,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -19551,8 +19702,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -19590,8 +19741,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -19616,8 +19767,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -19642,8 +19793,8 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -19707,10 +19858,10 @@
 		"category": "display",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -19940,11 +20091,11 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -20060,8 +20211,8 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20223,8 +20374,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -20327,8 +20478,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20390,10 +20541,10 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -20506,8 +20657,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -20531,8 +20682,8 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -20556,9 +20707,9 @@
 		"category": "serif",
 		"lastModified": "2017-08-02",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -20676,8 +20827,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20702,8 +20853,8 @@
 		"category": "serif",
 		"lastModified": "2017-08-28",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20726,11 +20877,11 @@
 	},
 	"Marck Script": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20753,10 +20904,10 @@
 	},
 	"Margarine": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20779,7 +20930,7 @@
 	},
 	"Marko One": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -20804,11 +20955,11 @@
 	},
 	"Marmelad": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20831,11 +20982,11 @@
 	},
 	"Martel": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -20936,11 +21087,11 @@
 	},
 	"Martel Sans": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21041,7 +21192,7 @@
 	},
 	"Marvel": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21107,7 +21258,7 @@
 	},
 	"Mate": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21146,7 +21297,7 @@
 	},
 	"Mate SC": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21171,11 +21322,11 @@
 	},
 	"Maven Pro": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -21237,10 +21388,10 @@
 	},
 	"McLaren": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21263,7 +21414,7 @@
 	},
 	"Meddon": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21287,10 +21438,10 @@
 	},
 	"MedievalSharp": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21312,7 +21463,7 @@
 	},
 	"Medula One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21337,10 +21488,10 @@
 	},
 	"Meera Inimai": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"tamil",
-			"latin"
+			"latin",
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -21363,7 +21514,7 @@
 	},
 	"Megrim": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21387,10 +21538,10 @@
 	},
 	"Meie Script": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21413,10 +21564,10 @@
 	},
 	"Merienda": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21452,7 +21603,7 @@
 	},
 	"Merienda One": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21477,12 +21628,12 @@
 	},
 	"Merriweather": {
 		"category": "serif",
-		"lastModified": "2017-08-23",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -21598,10 +21749,10 @@
 	},
 	"Merriweather Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -21717,7 +21868,7 @@
 	},
 	"Metal": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -21741,10 +21892,10 @@
 	},
 	"Metal Mania": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21767,10 +21918,10 @@
 	},
 	"Metamorphous": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21792,7 +21943,7 @@
 	},
 	"Metrophobic": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21817,7 +21968,7 @@
 	},
 	"Michroma": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21841,10 +21992,10 @@
 	},
 	"Milonga": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21867,7 +22018,7 @@
 	},
 	"Miltonian": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21892,7 +22043,7 @@
 	},
 	"Miltonian Tattoo": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21917,7 +22068,7 @@
 	},
 	"Miniver": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -21941,11 +22092,11 @@
 	},
 	"Miriam Libre": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -21981,11 +22132,11 @@
 	},
 	"Mirza": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22047,10 +22198,10 @@
 	},
 	"Miss Fajardose": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22073,12 +22224,12 @@
 	},
 	"Mitr": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -22166,11 +22317,11 @@
 	},
 	"Modak": {
 		"category": "display",
-		"lastModified": "2016-05-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22192,10 +22343,10 @@
 	},
 	"Modern Antiqua": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22218,11 +22369,11 @@
 	},
 	"Mogra": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22245,10 +22396,10 @@
 	},
 	"Molengo": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22271,10 +22422,10 @@
 	},
 	"Molle": {
 		"category": "handwriting",
-		"lastModified": "2017-08-01",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -22297,10 +22448,10 @@
 	},
 	"Monda": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22336,7 +22487,7 @@
 	},
 	"Monofett": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -22360,7 +22511,7 @@
 	},
 	"Monoton": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -22385,10 +22536,10 @@
 	},
 	"Monsieur La Doulaise": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -22411,7 +22562,7 @@
 	},
 	"Montaga": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -22461,11 +22612,11 @@
 	},
 	"Montserrat": {
 		"category": "sans-serif",
-		"lastModified": "2017-02-09",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -22711,11 +22862,11 @@
 	},
 	"Montserrat Alternates": {
 		"category": "sans-serif",
-		"lastModified": "2017-02-09",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -22961,7 +23112,7 @@
 	},
 	"Montserrat Subrayada": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-26",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -22997,7 +23148,7 @@
 	},
 	"Moul": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -23021,7 +23172,7 @@
 	},
 	"Moulpali": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -23084,10 +23235,10 @@
 	},
 	"Mouse Memoirs": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23110,10 +23261,10 @@
 	},
 	"Mr Bedfort": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23136,10 +23287,10 @@
 	},
 	"Mr Dafoe": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23162,10 +23313,10 @@
 	},
 	"Mr De Haviland": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23188,10 +23339,10 @@
 	},
 	"Mrs Saint Delafield": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23214,10 +23365,10 @@
 	},
 	"Mrs Sheppards": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23240,11 +23391,11 @@
 	},
 	"Mukta": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-21",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23345,11 +23496,11 @@
 	},
 	"Mukta Mahee": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin-ext",
 			"gurmukhi",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23450,11 +23601,11 @@
 	},
 	"Mukta Malar": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-31",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"tamil",
-			"latin"
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -23555,11 +23706,11 @@
 	},
 	"Mukta Vaani": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23660,11 +23811,11 @@
 	},
 	"Muli": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -23858,10 +24009,10 @@
 	},
 	"Mystery Quest": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -23884,10 +24035,10 @@
 	},
 	"NTR": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -23909,7 +24060,7 @@
 	},
 	"Neucha": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"cyrillic",
 			"latin"
@@ -23934,10 +24085,10 @@
 	},
 	"Neuton": {
 		"category": "serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -24027,10 +24178,10 @@
 	},
 	"New Rocker": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -24053,10 +24204,10 @@
 	},
 	"News Cycle": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -24092,10 +24243,10 @@
 	},
 	"Niconne": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -24118,7 +24269,7 @@
 	},
 	"Nixie One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24143,10 +24294,10 @@
 	},
 	"Nobile": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-21",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -24274,10 +24425,10 @@
 	},
 	"Norican": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -24300,10 +24451,10 @@
 	},
 	"Nosifer": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -24326,7 +24477,7 @@
 	},
 	"Nothing You Could Do": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24351,11 +24502,11 @@
 	},
 	"Noticia Text": {
 		"category": "serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -24421,14 +24572,14 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
-			"greek",
+			"cyrillic-ext",
 			"devanagari",
+			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -24494,13 +24645,13 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -24564,7 +24715,7 @@
 	},
 	"Nova Cut": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24589,7 +24740,7 @@
 	},
 	"Nova Flat": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24614,7 +24765,7 @@
 	},
 	"Nova Mono": {
 		"category": "monospace",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"greek",
 			"latin"
@@ -24639,7 +24790,7 @@
 	},
 	"Nova Oval": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24664,7 +24815,7 @@
 	},
 	"Nova Round": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24689,7 +24840,7 @@
 	},
 	"Nova Script": {
 		"category": "display",
-		"lastModified": "2017-05-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24714,7 +24865,7 @@
 	},
 	"Nova Slim": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24739,7 +24890,7 @@
 	},
 	"Nova Square": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24764,7 +24915,7 @@
 	},
 	"Numans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -24789,11 +24940,11 @@
 	},
 	"Nunito": {
 		"category": "sans-serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -24987,11 +25138,11 @@
 	},
 	"Nunito Sans": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-25",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -25185,7 +25336,7 @@
 	},
 	"Odor Mean Chey": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -25209,7 +25360,7 @@
 	},
 	"Offside": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -25234,13 +25385,13 @@
 	},
 	"Old Standard TT": {
 		"category": "serif",
-		"lastModified": "2017-01-19",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -25291,10 +25442,10 @@
 	},
 	"Oldenburg": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -25317,10 +25468,10 @@
 	},
 	"Oleo Script": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -25356,10 +25507,10 @@
 	},
 	"Oleo Script Swash Caps": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -25397,13 +25548,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -25547,13 +25698,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -25604,12 +25755,12 @@
 	},
 	"Oranienbaum": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -25632,7 +25783,7 @@
 	},
 	"Orbitron": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -25696,10 +25847,10 @@
 	},
 	"Oregano": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -25737,10 +25888,10 @@
 	},
 	"Orienta": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -25763,7 +25914,7 @@
 	},
 	"Original Surfer": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -25788,12 +25939,12 @@
 	},
 	"Oswald": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-02",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -25881,7 +26032,7 @@
 	},
 	"Over the Rainbow": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -25906,10 +26057,10 @@
 	},
 	"Overlock": {
 		"category": "display",
-		"lastModified": "2017-05-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -25999,10 +26150,10 @@
 	},
 	"Overlock SC": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26025,10 +26176,10 @@
 	},
 	"Overpass": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -26248,10 +26399,10 @@
 	},
 	"Overpass Mono": {
 		"category": "monospace",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26313,7 +26464,7 @@
 	},
 	"Ovo": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -26337,10 +26488,10 @@
 	},
 	"Oxygen": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26389,10 +26540,10 @@
 	},
 	"Oxygen Mono": {
 		"category": "monospace",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26415,12 +26566,12 @@
 	},
 	"PT Mono": {
 		"category": "monospace",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26443,12 +26594,12 @@
 	},
 	"PT Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -26512,12 +26663,12 @@
 	},
 	"PT Sans Caption": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26553,12 +26704,12 @@
 	},
 	"PT Sans Narrow": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26594,12 +26745,12 @@
 	},
 	"PT Serif": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -26663,12 +26814,12 @@
 	},
 	"PT Serif Caption": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -26706,11 +26857,11 @@
 	},
 	"Pacifico": {
 		"category": "handwriting",
-		"lastModified": "2017-01-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -26733,7 +26884,7 @@
 	},
 	"Padauk": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-10",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin",
 			"myanmar"
@@ -26772,11 +26923,11 @@
 	},
 	"Palanquin": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26877,11 +27028,11 @@
 	},
 	"Palanquin Dark": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -26943,13 +27094,13 @@
 	},
 	"Pangolin": {
 		"category": "handwriting",
-		"lastModified": "2017-06-05",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -26972,7 +27123,7 @@
 	},
 	"Paprika": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -26997,10 +27148,10 @@
 	},
 	"Parisienne": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27023,10 +27174,10 @@
 	},
 	"Passero One": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27049,10 +27200,10 @@
 	},
 	"Passion One": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27101,10 +27252,10 @@
 	},
 	"Pathway Gothic One": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27127,11 +27278,11 @@
 	},
 	"Patrick Hand": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27154,11 +27305,11 @@
 	},
 	"Patrick Hand SC": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27181,13 +27332,13 @@
 	},
 	"Pattaya": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"latin",
+			"latin-ext",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27210,7 +27361,7 @@
 	},
 	"Patua One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -27235,11 +27386,11 @@
 	},
 	"Pavanam": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"tamil",
-			"latin"
+			"tamil"
 		],
 		"variants": {
 			"normal": {
@@ -27262,11 +27413,11 @@
 	},
 	"Paytone One": {
 		"category": "sans-serif",
-		"lastModified": "2017-07-27",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27289,10 +27440,10 @@
 	},
 	"Peddana": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -27315,10 +27466,10 @@
 	},
 	"Peralta": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27366,10 +27517,10 @@
 	},
 	"Petit Formal Script": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27392,7 +27543,7 @@
 	},
 	"Petrona": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -27417,12 +27568,12 @@
 	},
 	"Philosopher": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-19",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -27486,10 +27637,10 @@
 	},
 	"Piedra": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27512,7 +27663,7 @@
 	},
 	"Pinyon Script": {
 		"category": "handwriting",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -27537,10 +27688,10 @@
 	},
 	"Pirata One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27563,10 +27714,10 @@
 	},
 	"Plaster": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27589,14 +27740,14 @@
 	},
 	"Play": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27632,10 +27783,10 @@
 	},
 	"Playball": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27658,11 +27809,11 @@
 	},
 	"Playfair Display": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -27748,15 +27899,15 @@
 				}
 			}
 		},
-		"version": "v10"
+		"version": "v11"
 	},
 	"Playfair Display SC": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -27846,13 +27997,13 @@
 	},
 	"Podkova": {
 		"category": "serif",
-		"lastModified": "2017-02-09",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -27927,11 +28078,11 @@
 	},
 	"Poiret One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -27954,7 +28105,7 @@
 	},
 	"Poller One": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -27979,7 +28130,7 @@
 	},
 	"Poly": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -28017,7 +28168,7 @@
 	},
 	"Pompiere": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -28042,10 +28193,10 @@
 	},
 	"Pontano Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -28068,11 +28219,11 @@
 	},
 	"Poppins": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-21",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -28318,7 +28469,7 @@
 	},
 	"Port Lligat Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -28343,7 +28494,7 @@
 	},
 	"Port Lligat Slab": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -28368,11 +28519,11 @@
 	},
 	"Pragati Narrow": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -28408,12 +28559,12 @@
 	},
 	"Prata": {
 		"category": "serif",
-		"lastModified": "2017-01-19",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -28436,7 +28587,7 @@
 	},
 	"Preahvihear": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -28461,13 +28612,13 @@
 	},
 	"Press Start 2P": {
 		"category": "display",
-		"lastModified": "2017-01-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -28490,12 +28641,12 @@
 	},
 	"Pridi": {
 		"category": "serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -28583,10 +28734,10 @@
 	},
 	"Princess Sofia": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -28609,7 +28760,7 @@
 	},
 	"Prociono": {
 		"category": "serif",
-		"lastModified": "2017-02-09",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -28634,12 +28785,12 @@
 	},
 	"Prompt": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -28885,11 +29036,11 @@
 	},
 	"Prosto One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -28912,10 +29063,10 @@
 	},
 	"Proza Libre": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -29057,7 +29208,7 @@
 	},
 	"Puritan": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -29123,10 +29274,10 @@
 	},
 	"Purple Purse": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29149,10 +29300,10 @@
 	},
 	"Quando": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29174,7 +29325,7 @@
 	},
 	"Quantico": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -29237,10 +29388,10 @@
 	},
 	"Quattrocento": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29275,10 +29426,10 @@
 	},
 	"Quattrocento Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -29342,7 +29493,7 @@
 	},
 	"Questrial": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -29367,11 +29518,11 @@
 	},
 	"Quicksand": {
 		"category": "sans-serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -29433,10 +29584,10 @@
 	},
 	"Quintessential": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29459,10 +29610,10 @@
 	},
 	"Qwigley": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29485,10 +29636,10 @@
 	},
 	"Racing Sans One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29511,10 +29662,10 @@
 	},
 	"Radley": {
 		"category": "serif",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -29552,11 +29703,11 @@
 	},
 	"Rajdhani": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29631,11 +29782,11 @@
 	},
 	"Rakkas": {
 		"category": "display",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
+			"arabic",
 			"latin",
-			"arabic"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29658,10 +29809,10 @@
 	},
 	"Raleway": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -29907,10 +30058,10 @@
 	},
 	"Raleway Dots": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -29933,10 +30084,10 @@
 	},
 	"Ramabhadra": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -29958,10 +30109,10 @@
 	},
 	"Ramaraja": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -29983,10 +30134,10 @@
 	},
 	"Rambla": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -30050,10 +30201,10 @@
 	},
 	"Rammetto One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30076,10 +30227,10 @@
 	},
 	"Ranchers": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30127,11 +30278,11 @@
 	},
 	"Ranga": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30167,11 +30318,11 @@
 	},
 	"Rasa": {
 		"category": "serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30246,7 +30397,7 @@
 	},
 	"Rationale": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -30271,10 +30422,10 @@
 	},
 	"Ravi Prakash": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -30322,10 +30473,10 @@
 	},
 	"Reem Kufi": {
 		"category": "sans-serif",
-		"lastModified": "2016-08-22",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -30335,20 +30486,20 @@
 						"'ReemKufi-Regular'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/reemkufi/v1/FTp4cbXHs33vRJgqopuR4vY6323mHUZFJMgTvxaG2iE.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=FTp4cbXHs33vRJgqopuR4pbd9NUM7myrQQz30yPaGQ4&skey=b342e03de63f62b0&v=v1#ReemKufi",
-						"ttf": "https://fonts.gstatic.com/s/reemkufi/v1/FTp4cbXHs33vRJgqopuR4qCWcynf_cDxXwCLxiixG1c.ttf",
-						"woff": "https://fonts.gstatic.com/s/reemkufi/v1/FTp4cbXHs33vRJgqopuR4j8E0i7KZn-EPnyo3HZu7kw.woff",
-						"woff2": "https://fonts.gstatic.com/s/reemkufi/v1/FTp4cbXHs33vRJgqopuR4ltXRa8TVwTICgirnJhmVJw.woff2"
+						"eot": "https://fonts.gstatic.com/s/reemkufi/v2/FTp4cbXHs33vRJgqopuR4vY6323mHUZFJMgTvxaG2iE.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=FTp4cbXHs33vRJgqopuR4pbd9NUM7myrQQz30yPaGQ4&skey=b342e03de63f62b0&v=v2#ReemKufi",
+						"ttf": "https://fonts.gstatic.com/s/reemkufi/v2/FTp4cbXHs33vRJgqopuR4qCWcynf_cDxXwCLxiixG1c.ttf",
+						"woff": "https://fonts.gstatic.com/s/reemkufi/v2/FTp4cbXHs33vRJgqopuR4j8E0i7KZn-EPnyo3HZu7kw.woff",
+						"woff2": "https://fonts.gstatic.com/s/reemkufi/v2/FTp4cbXHs33vRJgqopuR4ltXRa8TVwTICgirnJhmVJw.woff2"
 					}
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	},
 	"Reenie Beanie": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -30373,10 +30524,10 @@
 	},
 	"Revalia": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30398,11 +30549,11 @@
 	},
 	"Rhodium Libre": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30425,10 +30576,10 @@
 	},
 	"Ribeye": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30451,10 +30602,10 @@
 	},
 	"Ribeye Marrow": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30477,10 +30628,10 @@
 	},
 	"Righteous": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30503,10 +30654,10 @@
 	},
 	"Risque": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -30531,13 +30682,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-04-17",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -30707,13 +30858,13 @@
 		"category": "sans-serif",
 		"lastModified": "2017-04-17",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -30805,13 +30956,13 @@
 		"category": "monospace",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -30955,13 +31106,13 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -31073,11 +31224,11 @@
 	},
 	"Rokkitt": {
 		"category": "serif",
-		"lastModified": "2017-02-09",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -31204,10 +31355,10 @@
 	},
 	"Romanesco": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31230,10 +31381,10 @@
 	},
 	"Ropa Sans": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -31271,7 +31422,7 @@
 	},
 	"Rosario": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -31337,10 +31488,10 @@
 	},
 	"Rosarivo": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -31378,7 +31529,7 @@
 	},
 	"Rouge Script": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -31403,11 +31554,11 @@
 	},
 	"Rozha One": {
 		"category": "serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31430,12 +31581,12 @@
 	},
 	"Rubik": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"hebrew",
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"hebrew",
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -31577,11 +31728,11 @@
 	},
 	"Rubik Mono One": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31604,10 +31755,10 @@
 	},
 	"Ruda": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31656,10 +31807,10 @@
 	},
 	"Rufina": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31695,10 +31846,10 @@
 	},
 	"Ruge Boogie": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31721,10 +31872,10 @@
 	},
 	"Ruluko": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31746,10 +31897,10 @@
 	},
 	"Rum Raisin": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31772,11 +31923,11 @@
 	},
 	"Ruslan Display": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31799,11 +31950,11 @@
 	},
 	"Russo One": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31826,10 +31977,10 @@
 	},
 	"Ruthie": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31852,10 +32003,10 @@
 	},
 	"Rye": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31878,10 +32029,10 @@
 	},
 	"Sacramento": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31904,7 +32055,7 @@
 	},
 	"Sahitya": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"devanagari",
 			"latin"
@@ -31943,10 +32094,10 @@
 	},
 	"Sail": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -31971,9 +32122,9 @@
 		"category": "sans-serif",
 		"lastModified": "2017-08-15",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -32100,11 +32251,11 @@
 	},
 	"Saira Condensed": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-02",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -32227,15 +32378,15 @@
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	},
 	"Saira Extra Condensed": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-02",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -32358,15 +32509,15 @@
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	},
 	"Saira Semi Condensed": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-02",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -32489,11 +32640,11 @@
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	},
 	"Salsa": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -32517,10 +32668,10 @@
 	},
 	"Sanchez": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -32558,10 +32709,10 @@
 	},
 	"Sancreek": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -32584,10 +32735,10 @@
 	},
 	"Sansita": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-26",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -32703,11 +32854,11 @@
 	},
 	"Sarala": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -32743,10 +32894,10 @@
 	},
 	"Sarina": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -32769,11 +32920,11 @@
 	},
 	"Sarpanch": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -32886,12 +33037,12 @@
 	},
 	"Scada": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -32955,10 +33106,10 @@
 	},
 	"Scheherazade": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin",
-			"arabic"
+			"arabic",
+			"latin"
 		],
 		"variants": {
 			"normal": {
@@ -33019,10 +33170,10 @@
 	},
 	"Scope One": {
 		"category": "serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33045,10 +33196,10 @@
 	},
 	"Seaweed Script": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33071,11 +33222,11 @@
 	},
 	"Secular One": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33100,9 +33251,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-21",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -33127,9 +33278,9 @@
 		"category": "handwriting",
 		"lastModified": "2017-08-21",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -33152,10 +33303,10 @@
 	},
 	"Sevillana": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33178,11 +33329,11 @@
 	},
 	"Seymour One": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33205,7 +33356,7 @@
 	},
 	"Shadows Into Light": {
 		"category": "handwriting",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33230,10 +33381,10 @@
 	},
 	"Shadows Into Light Two": {
 		"category": "handwriting",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33256,7 +33407,7 @@
 	},
 	"Shanti": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33280,10 +33431,10 @@
 	},
 	"Share": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -33347,7 +33498,7 @@
 	},
 	"Share Tech": {
 		"category": "sans-serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33372,7 +33523,7 @@
 	},
 	"Share Tech Mono": {
 		"category": "monospace",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33397,10 +33548,10 @@
 	},
 	"Shojumaru": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33423,7 +33574,7 @@
 	},
 	"Short Stack": {
 		"category": "handwriting",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33448,11 +33599,11 @@
 	},
 	"Shrikhand": {
 		"category": "display",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"gujarati",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33475,7 +33626,7 @@
 	},
 	"Siemreap": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -33499,11 +33650,11 @@
 	},
 	"Sigmar One": {
 		"category": "display",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -33526,10 +33677,10 @@
 	},
 	"Signika": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33591,10 +33742,10 @@
 	},
 	"Signika Negative": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33656,10 +33807,10 @@
 	},
 	"Simonetta": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -33723,10 +33874,10 @@
 	},
 	"Sintony": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33761,7 +33912,7 @@
 	},
 	"Sirin Stencil": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33786,7 +33937,7 @@
 	},
 	"Six Caps": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33811,10 +33962,10 @@
 	},
 	"Skranji": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33849,10 +34000,10 @@
 	},
 	"Slabo 13px": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33875,10 +34026,10 @@
 	},
 	"Slabo 27px": {
 		"category": "serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -33951,7 +34102,7 @@
 	},
 	"Smythe": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -33975,10 +34126,10 @@
 	},
 	"Sniglet": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34014,7 +34165,7 @@
 	},
 	"Snippet": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34038,10 +34189,10 @@
 	},
 	"Snowburst One": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34064,7 +34215,7 @@
 	},
 	"Sofadi One": {
 		"category": "display",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34089,7 +34240,7 @@
 	},
 	"Sofia": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34114,10 +34265,10 @@
 	},
 	"Sonsie One": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34140,10 +34291,10 @@
 	},
 	"Sorts Mill Goudy": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -34181,10 +34332,10 @@
 	},
 	"Source Code Pro": {
 		"category": "monospace",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34285,15 +34436,15 @@
 	},
 	"Source Sans Pro": {
 		"category": "sans-serif",
-		"lastModified": "2017-06-05",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -34461,10 +34612,10 @@
 	},
 	"Source Serif Pro": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34513,11 +34664,11 @@
 	},
 	"Space Mono": {
 		"category": "monospace",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -34606,11 +34757,11 @@
 	},
 	"Spectral": {
 		"category": "serif",
-		"lastModified": "2017-06-12",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -34804,7 +34955,7 @@
 	},
 	"Spicy Rice": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34829,10 +34980,10 @@
 	},
 	"Spinnaker": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34855,7 +35006,7 @@
 	},
 	"Spirax": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34879,7 +35030,7 @@
 	},
 	"Squada One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -34904,10 +35055,10 @@
 	},
 	"Sree Krushnadevaraya": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -34930,12 +35081,12 @@
 	},
 	"Sriracha": {
 		"category": "handwriting",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -34958,10 +35109,10 @@
 	},
 	"Stalemate": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -34984,11 +35135,11 @@
 	},
 	"Stalinist One": {
 		"category": "display",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35011,7 +35162,7 @@
 	},
 	"Stardos Stencil": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35049,10 +35200,10 @@
 	},
 	"Stint Ultra Condensed": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35075,10 +35226,10 @@
 	},
 	"Stint Ultra Expanded": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35101,10 +35252,10 @@
 	},
 	"Stoke": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35140,7 +35291,7 @@
 	},
 	"Strait": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35165,7 +35316,7 @@
 	},
 	"Sue Ellen Francisco": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35190,11 +35341,11 @@
 	},
 	"Suez One": {
 		"category": "serif",
-		"lastModified": "2016-06-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"hebrew",
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35217,11 +35368,11 @@
 	},
 	"Sumana": {
 		"category": "serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35282,7 +35433,7 @@
 	},
 	"Supermercado One": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35307,11 +35458,11 @@
 	},
 	"Sura": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35347,10 +35498,10 @@
 	},
 	"Suranna": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -35372,10 +35523,10 @@
 	},
 	"Suravaram": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -35397,7 +35548,7 @@
 	},
 	"Suwannaphum": {
 		"category": "display",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -35422,7 +35573,7 @@
 	},
 	"Swanky and Moo Moo": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35485,7 +35636,7 @@
 	},
 	"Tangerine": {
 		"category": "handwriting",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -35523,7 +35674,7 @@
 	},
 	"Taprom": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"khmer"
 		],
@@ -35547,10 +35698,10 @@
 	},
 	"Tauri": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35573,12 +35724,12 @@
 	},
 	"Taviraj": {
 		"category": "serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -35824,11 +35975,11 @@
 	},
 	"Teko": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35903,10 +36054,10 @@
 	},
 	"Telex": {
 		"category": "sans-serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35929,10 +36080,10 @@
 	},
 	"Tenali Ramakrishna": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -35955,11 +36106,11 @@
 	},
 	"Tenor Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -35982,10 +36133,10 @@
 	},
 	"Text Me One": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -36008,7 +36159,7 @@
 	},
 	"The Girl Next Door": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -36033,7 +36184,7 @@
 	},
 	"Tienne": {
 		"category": "serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -36084,11 +36235,11 @@
 	},
 	"Tillana": {
 		"category": "handwriting",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -36163,10 +36314,10 @@
 	},
 	"Timmana": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"telugu",
-			"latin"
+			"latin",
+			"telugu"
 		],
 		"variants": {
 			"normal": {
@@ -36190,14 +36341,14 @@
 		"category": "serif",
 		"lastModified": "2017-08-24",
 		"subsets": [
+			"cyrillic",
+			"cyrillic-ext",
+			"greek",
 			"greek-ext",
 			"hebrew",
-			"latin-ext",
-			"cyrillic",
-			"vietnamese",
-			"greek",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -36261,10 +36412,10 @@
 	},
 	"Titan One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -36287,10 +36438,10 @@
 	},
 	"Titillium Web": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -36445,7 +36596,7 @@
 	},
 	"Trade Winds": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -36470,12 +36621,12 @@
 	},
 	"Trirong": {
 		"category": "serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
 			"thai",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -36721,10 +36872,10 @@
 	},
 	"Trocchi": {
 		"category": "serif",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -36747,7 +36898,7 @@
 	},
 	"Trochut": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -36799,10 +36950,10 @@
 	},
 	"Trykker": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -36825,7 +36976,7 @@
 	},
 	"Tulpen One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -36850,14 +37001,14 @@
 	},
 	"Ubuntu": {
 		"category": "sans-serif",
-		"lastModified": "2017-08-23",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -36973,14 +37124,14 @@
 	},
 	"Ubuntu Condensed": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-03",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37003,14 +37154,14 @@
 	},
 	"Ubuntu Mono": {
 		"category": "monospace",
-		"lastModified": "2016-06-03",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"greek-ext",
-			"latin-ext",
 			"cyrillic",
+			"cyrillic-ext",
 			"greek",
+			"greek-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -37099,7 +37250,7 @@
 	},
 	"Uncial Antiqua": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37124,11 +37275,11 @@
 	},
 	"Underdog": {
 		"category": "display",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37151,10 +37302,10 @@
 	},
 	"Unica One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37177,7 +37328,7 @@
 	},
 	"UnifrakturCook": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37202,7 +37353,7 @@
 	},
 	"UnifrakturMaguntia": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37264,7 +37415,7 @@
 	},
 	"Unlock": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37289,10 +37440,10 @@
 	},
 	"Unna": {
 		"category": "serif",
-		"lastModified": "2017-01-26",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -37356,11 +37507,11 @@
 	},
 	"VT323": {
 		"category": "monospace",
-		"lastModified": "2016-12-08",
+		"lastModified": "2017-08-29",
 		"subsets": [
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -37383,10 +37534,10 @@
 	},
 	"Vampiro One": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37409,10 +37560,10 @@
 	},
 	"Varela": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37434,12 +37585,12 @@
 	},
 	"Varela Round": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-11",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"hebrew",
+			"latin",
 			"latin-ext",
-			"vietnamese",
-			"latin"
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -37462,7 +37613,7 @@
 	},
 	"Vast Shadow": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37487,11 +37638,11 @@
 	},
 	"Vesper Libre": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37553,7 +37704,7 @@
 	},
 	"Vibur": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37577,7 +37728,7 @@
 	},
 	"Vidaloka": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37602,10 +37753,10 @@
 	},
 	"Viga": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37627,10 +37778,10 @@
 	},
 	"Voces": {
 		"category": "display",
-		"lastModified": "2017-08-15",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37653,7 +37804,7 @@
 	},
 	"Volkhov": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37719,9 +37870,14 @@
 	},
 	"Vollkorn": {
 		"category": "serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-31",
 		"subsets": [
-			"latin"
+			"cyrillic",
+			"cyrillic-ext",
+			"greek",
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"italic": {
@@ -37731,11 +37887,24 @@
 						"'Vollkorn-Italic'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/vollkorn/v6/Oiz0tNwvC-Nd29SBQWfWTFQlYEbsez9cZjKsNMjLOwM.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=Oiz0tNwvC-Nd29SBQWfWTKWUboTb-jS2tyCOQMtm97g&skey=32518239f351a3af&v=v6#Vollkorn",
-						"ttf": "https://fonts.gstatic.com/s/vollkorn/v6/Oiz0tNwvC-Nd29SBQWfWTC3USBnSvpkopQaUR-2r7iU.ttf",
-						"woff": "https://fonts.gstatic.com/s/vollkorn/v6/Oiz0tNwvC-Nd29SBQWfWTBsxEYwM7FgeyaSgU71cLG0.woff",
-						"woff2": "https://fonts.gstatic.com/s/vollkorn/v6/Oiz0tNwvC-Nd29SBQWfWTPk_vArhqVIZ0nv9q090hN8.woff2"
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/Oiz0tNwvC-Nd29SBQWfWTFQlYEbsez9cZjKsNMjLOwM.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=Oiz0tNwvC-Nd29SBQWfWTKWUboTb-jS2tyCOQMtm97g&skey=32518239f351a3af&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/Oiz0tNwvC-Nd29SBQWfWTC3USBnSvpkopQaUR-2r7iU.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/Oiz0tNwvC-Nd29SBQWfWTBsxEYwM7FgeyaSgU71cLG0.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/Oiz0tNwvC-Nd29SBQWfWTPk_vArhqVIZ0nv9q090hN8.woff2"
+					}
+				},
+				"600": {
+					"local": [
+						"'Vollkorn SemiBold Italic'",
+						"'Vollkorn-SemiBoldItalic'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/dU1kkg9Vvuo527vzySfgDMG3e9iX24ta7lLMfbqPFME.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=dU1kkg9Vvuo527vzySfgDHXS6izMuFYFwSUB_9Omnz0&skey=a1c9e88853ea3e2d&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/dU1kkg9Vvuo527vzySfgDLh9hBNNhK4RjzVManoH7kY.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/dU1kkg9Vvuo527vzySfgDG4H_cQCpNmkmj7HsMzmiiM.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/dU1kkg9Vvuo527vzySfgDKVlZKEoJGujTpfWnQT9bUY.woff2"
 					}
 				},
 				"700": {
@@ -37744,11 +37913,24 @@
 						"'Vollkorn-BoldItalic'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/vollkorn/v6/KNiAlx6phRqXCwnZZG51JGzklk6MJbhg7BmBP42CjCQ.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=KNiAlx6phRqXCwnZZG51JD9QLNJZUvW8xv4RpDkyVDQ&skey=10b3db0dffc249bc&v=v6#Vollkorn",
-						"ttf": "https://fonts.gstatic.com/s/vollkorn/v6/KNiAlx6phRqXCwnZZG51JPEr6Hm6RMS0v1dtXsGir4g.ttf",
-						"woff": "https://fonts.gstatic.com/s/vollkorn/v6/KNiAlx6phRqXCwnZZG51JAFhaRv2pGgT5Kf0An0s4MM.woff",
-						"woff2": "https://fonts.gstatic.com/s/vollkorn/v6/KNiAlx6phRqXCwnZZG51JIWiMMZ7xLd792ULpGE4W_Y.woff2"
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/KNiAlx6phRqXCwnZZG51JGzklk6MJbhg7BmBP42CjCQ.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=KNiAlx6phRqXCwnZZG51JD9QLNJZUvW8xv4RpDkyVDQ&skey=10b3db0dffc249bc&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/KNiAlx6phRqXCwnZZG51JPEr6Hm6RMS0v1dtXsGir4g.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/KNiAlx6phRqXCwnZZG51JAFhaRv2pGgT5Kf0An0s4MM.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/KNiAlx6phRqXCwnZZG51JIWiMMZ7xLd792ULpGE4W_Y.woff2"
+					}
+				},
+				"900": {
+					"local": [
+						"'Vollkorn Black Italic'",
+						"'Vollkorn-BlackItalic'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/5fOn_dOVwBIkZpOP3_1I78WwaGkf25P-zZOrMBTzpJc.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=5fOn_dOVwBIkZpOP3_1I7wbguVsRAaYn2Q4xl-qnf-A&skey=c668b54c918d784&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/5fOn_dOVwBIkZpOP3_1I716YDbH3175F1es-Zl7mOpU.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/5fOn_dOVwBIkZpOP3_1I74PAkl-0rCkX4F4zIO7lYWE.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/5fOn_dOVwBIkZpOP3_1I78jsb7Oq0o-uqUFW7Ygu5rM.woff2"
 					}
 				}
 			},
@@ -37759,11 +37941,24 @@
 						"'Vollkorn-Regular'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/vollkorn/v6/rzvoOTOZcQfVDoKuaB7mVvesZW2xOQ-xsNqO47m55DA.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=7Ikz6KCROt2STxF2hbeF0_esZW2xOQ-xsNqO47m55DA&skey=70793812edfff824&v=v6#Vollkorn",
-						"ttf": "https://fonts.gstatic.com/s/vollkorn/v6/7jR1T900H5YEkd1UcZhA_fesZW2xOQ-xsNqO47m55DA.ttf",
-						"woff": "https://fonts.gstatic.com/s/vollkorn/v6/BCFBp4rt5gxxFrX6F12DKvesZW2xOQ-xsNqO47m55DA.woff",
-						"woff2": "https://fonts.gstatic.com/s/vollkorn/v6/idGKtgpe38okB6bfeHMsLPesZW2xOQ-xsNqO47m55DA.woff2"
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/rzvoOTOZcQfVDoKuaB7mVvesZW2xOQ-xsNqO47m55DA.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=7Ikz6KCROt2STxF2hbeF0_esZW2xOQ-xsNqO47m55DA&skey=70793812edfff824&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/7jR1T900H5YEkd1UcZhA_fesZW2xOQ-xsNqO47m55DA.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/BCFBp4rt5gxxFrX6F12DKvesZW2xOQ-xsNqO47m55DA.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/idGKtgpe38okB6bfeHMsLPesZW2xOQ-xsNqO47m55DA.woff2"
+					}
+				},
+				"600": {
+					"local": [
+						"'Vollkorn SemiBold'",
+						"'Vollkorn-SemiBold'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/fuCAi9VgWC7hEVCJDaiIRGfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=fuCAi9VgWC7hEVCJDaiIRHNsigHlcrQGNV8nkUSFQfc&skey=41e95230d3cb30e8&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/fuCAi9VgWC7hEVCJDaiIRJ0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/fuCAi9VgWC7hEVCJDaiIRIbN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/fuCAi9VgWC7hEVCJDaiIRI4P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				},
 				"700": {
@@ -37772,20 +37967,33 @@
 						"'Vollkorn-Bold'"
 					],
 					"url": {
-						"eot": "https://fonts.gstatic.com/s/vollkorn/v6/wMZpbUtcCo9GUabw9JODemfQcKutQXcIrRfyR5jdjY8.eot",
-						"svg": "https://fonts.gstatic.com/l/font?kit=wMZpbUtcCo9GUabw9JODenNsigHlcrQGNV8nkUSFQfc&skey=fcca972bacfda2c0&v=v6#Vollkorn",
-						"ttf": "https://fonts.gstatic.com/s/vollkorn/v6/wMZpbUtcCo9GUabw9JODep0EAVxt0G0biEntp43Qt6E.ttf",
-						"woff": "https://fonts.gstatic.com/s/vollkorn/v6/wMZpbUtcCo9GUabw9JODeobN6UDyHWBl620a-IRfuBk.woff",
-						"woff2": "https://fonts.gstatic.com/s/vollkorn/v6/wMZpbUtcCo9GUabw9JODeo4P5ICox8Kq3LLUNMylGO4.woff2"
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/wMZpbUtcCo9GUabw9JODemfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=wMZpbUtcCo9GUabw9JODenNsigHlcrQGNV8nkUSFQfc&skey=fcca972bacfda2c0&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/wMZpbUtcCo9GUabw9JODep0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/wMZpbUtcCo9GUabw9JODeobN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/wMZpbUtcCo9GUabw9JODeo4P5ICox8Kq3LLUNMylGO4.woff2"
+					}
+				},
+				"900": {
+					"local": [
+						"'Vollkorn Black'",
+						"'Vollkorn-Black'"
+					],
+					"url": {
+						"eot": "https://fonts.gstatic.com/s/vollkorn/v7/8-5rb41gwXOx-b2XFI6VoGfQcKutQXcIrRfyR5jdjY8.eot",
+						"svg": "https://fonts.gstatic.com/l/font?kit=8-5rb41gwXOx-b2XFI6VoHNsigHlcrQGNV8nkUSFQfc&skey=fbeeaa50e464c9f3&v=v7#Vollkorn",
+						"ttf": "https://fonts.gstatic.com/s/vollkorn/v7/8-5rb41gwXOx-b2XFI6VoJ0EAVxt0G0biEntp43Qt6E.ttf",
+						"woff": "https://fonts.gstatic.com/s/vollkorn/v7/8-5rb41gwXOx-b2XFI6VoIbN6UDyHWBl620a-IRfuBk.woff",
+						"woff2": "https://fonts.gstatic.com/s/vollkorn/v7/8-5rb41gwXOx-b2XFI6VoI4P5ICox8Kq3LLUNMylGO4.woff2"
 					}
 				}
 			}
 		},
-		"version": "v6"
+		"version": "v7"
 	},
 	"Voltaire": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37809,7 +38017,7 @@
 	},
 	"Waiting for the Sunrise": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37834,7 +38042,7 @@
 	},
 	"Wallpoet": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37883,10 +38091,10 @@
 	},
 	"Warnes": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37909,10 +38117,10 @@
 	},
 	"Wellfleet": {
 		"category": "display",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37935,10 +38143,10 @@
 	},
 	"Wendy One": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -37961,7 +38169,7 @@
 	},
 	"Wire One": {
 		"category": "sans-serif",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -37986,10 +38194,10 @@
 	},
 	"Work Sans": {
 		"category": "sans-serif",
-		"lastModified": "2016-06-07",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -38116,12 +38324,12 @@
 	},
 	"Yanone Kaffeesatz": {
 		"category": "sans-serif",
-		"lastModified": "2017-01-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
-			"latin"
+			"latin",
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -38183,11 +38391,11 @@
 	},
 	"Yantramanav": {
 		"category": "sans-serif",
-		"lastModified": "2017-05-16",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -38275,11 +38483,11 @@
 	},
 	"Yatra One": {
 		"category": "display",
-		"lastModified": "2017-08-02",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"devanagari",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -38327,13 +38535,13 @@
 	},
 	"Yeseva One": {
 		"category": "display",
-		"lastModified": "2017-01-20",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
 			"cyrillic",
-			"vietnamese",
+			"cyrillic-ext",
 			"latin",
-			"cyrillic-ext"
+			"latin-ext",
+			"vietnamese"
 		],
 		"variants": {
 			"normal": {
@@ -38356,7 +38564,7 @@
 	},
 	"Yesteryear": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -38381,10 +38589,10 @@
 	},
 	"Yrsa": {
 		"category": "serif",
-		"lastModified": "2017-05-24",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -38459,7 +38667,7 @@
 	},
 	"Zeyada": {
 		"category": "handwriting",
-		"lastModified": "2016-05-31",
+		"lastModified": "2017-08-29",
 		"subsets": [
 			"latin"
 		],
@@ -38483,10 +38691,10 @@
 	},
 	"Zilla Slab": {
 		"category": "serif",
-		"lastModified": "2017-06-27",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"italic": {
@@ -38624,14 +38832,14 @@
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	},
 	"Zilla Slab Highlight": {
 		"category": "display",
-		"lastModified": "2017-07-27",
+		"lastModified": "2017-08-29",
 		"subsets": [
-			"latin-ext",
-			"latin"
+			"latin",
+			"latin-ext"
 		],
 		"variants": {
 			"normal": {
@@ -38663,6 +38871,6 @@
 				}
 			}
 		},
-		"version": "v1"
+		"version": "v2"
 	}
 }
