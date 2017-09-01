@@ -9,6 +9,7 @@ const { fetch } = require('fetch-ponyfill')({});
 const postcss = require('postcss');
 const promiseRetry = require('promise-retry');
 const { Semaphore } = require('await-semaphore');
+const cartesianProduct = require('cartesian-product');
 
 const postcssProcessor = postcss();
 const userAgents = require('./user-agents.json');
@@ -87,7 +88,7 @@ const getAllDecls = _.flow(
   _.flatMap(processRule),
 );
 
-async function getFont(userAgent, format, family, variant) {
+async function getFont({ ua, format, family, variant, subset }) {
   const host = 'fonts.googleapis.com';
   const logMsg = `${family} ${variant} ${format}`;
   console.log('Started', logMsg);
@@ -95,11 +96,11 @@ async function getFont(userAgent, format, family, variant) {
     protocol: 'https',
     host,
     pathname: 'css',
-    query: fontToQ(family, variant),
+    query: fontToQ(family, variant, subset),
   });
   const res = await fetch(
     fontUrl,
-    { headers: { 'User-Agent': userAgent } },
+    { headers: { 'User-Agent': ua } },
   );
   if (!res.ok) {
     throw new Error(`Failed to download ${logMsg}`);
@@ -115,6 +116,7 @@ async function getFont(userAgent, format, family, variant) {
       _.set('family', family),
       _.set('format', format),
       _.set('variant', variant),
+      _.set('subset', subset),
     )),
   )(result.root);
 }
@@ -136,29 +138,32 @@ function properPromiseRetry(fn, options) {
   return promiseRetry(wrapper, options);
 }
 
-function getFontDecorated(ua, format, family, variant) {
+function getFontDecorated(args) {
   return properPromiseRetry(
-    () => semaphore.use(() => getFont(ua, format, family, variant)),
+    () => semaphore.use(() => getFont(args)),
     { randomize: true },
   );
 }
 
 function eachFont(font) {
-  const family = font.family;
-  const variants = font.variants;
+  const { family, variants, subsets } = font;
 
-  function fetchForVariant(variant) {
+  function fetchForVariant([variant, subset]) {
     return _.flow(
       _.toPairs,
-      _.map(([format, ua]) => getFontDecorated(ua, format, family, variant)),
+      _.map(([format, ua]) => getFontDecorated({ ua, format, family, variant, subset })),
       flattenPromises,
     )(userAgents);
   }
 
+  const allSubsets = subsets.join(',');
+  const uniqSubsets = _.uniq([...subsets, allSubsets]);
+
   return _.flow(
+    cartesianProduct,
     _.map(fetchForVariant),
     flattenPromises,
-  )(variants);
+  )([variants, uniqSubsets]);
 }
 
 async function doIt() {
@@ -178,9 +183,15 @@ async function doIt() {
   const res = await getData();
 
   function reducer(acc, next) {
-    const { fontStyle, fontWeight, type, path, format, family } = next;
+    const { fontStyle, fontWeight, type, path, format, family, subset } = next;
+    const ss = subset.includes(',') ? 'all' : subset;
+
     if (type !== 'local') {
-      return _.setWith(Object, [family, 'variants', fontStyle, fontWeight, type, format], path, acc);
+      if (ss === 'latin') {
+        return _.setWith(Object, [family, 'variants', fontStyle, fontWeight, type, format], path, acc);
+      }
+
+      return _.setWith(Object, [family, 'variants', fontStyle, fontWeight, 'subset', ss, type, format], path, acc);
     }
 
     return _.updateWith(
