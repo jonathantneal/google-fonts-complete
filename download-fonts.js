@@ -22,8 +22,8 @@ function properPromiseRetry(fn, options) {
 }
 
 async function downloadAndSaveFont(font) {
-  const { path: url, fontStyle, fontWeight, family, format } = font;
-  const dir = path.join('fonts', family, fontStyle, fontWeight);
+  const { path: url, fontStyle, fontWeight, family, format, subset } = font;
+  const dir = path.join('fonts', family, fontStyle, fontWeight, subset);
   const fname = path.join(dir, `font.${format}`);
   async function getWriteStream() {
     await fs.mkdirp(dir);
