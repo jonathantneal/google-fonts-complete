@@ -1,3 +1,7 @@
+## 1.2.1 (2018-01-29)
+
+- Updated: Google Fonts base to the latest version
+
 ## 1.2.0 (2017-07-03)
 
 - Updated: Google Fonts base to the latest version
