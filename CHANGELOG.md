@@ -1,3 +1,6 @@
+565264.781ms
+1532730.137ms
+
 ## 1.2.4 (2019-10-16)
 
 - Updated: Google Fonts base to the latest version

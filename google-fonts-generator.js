@@ -1,131 +1,178 @@
 // api-response.json retrieved from: https://www.googleapis.com/webfonts/v1/webfonts?fields=items(category%2Cfamily%2ClastModified%2Csubsets%2Cvariants%2Cversion)&key={YOUR_API_KEY}
 // alternatively available from: https://developers.google.com/apis-explorer/?hl=en_US#p/webfonts/v1/webfonts.webfonts.list?fields=items(category%252Cfamily%252ClastModified%252Csubsets%252Cvariants%252Cversion)&_h=3&
 
-var exports = {};
-var fonts = require('./api-response.json');
-var fs = require('fs');
-var http = require('http');
-var postcss = require('postcss');
-var postcssProcessor = postcss();
-var promise = Promise.resolve();
-var userAgents = require('./user-agents.json');
+const fs = require('fs');
+const https = require('https');
+const postcss = require('postcss');
 
-function getSortedObject(object) {
-	var sortedObject = {};
+const fonts = require('./api-response.json');
+const userAgents = require('./user-agents.json');
 
-	Object.keys(object).sort().forEach(function (key) {
-		if (object[key] instanceof Array || typeof object[key] !== 'object') {
-			sortedObject[key] = object[key];
-		} else {
-			sortedObject[key] = getSortedObject(object[key]);
-		}
-	});
+const getSortedObject = object => {
+    let sortedObject = {};
 
-	return sortedObject;
+    Object.keys(object)
+        .sort()
+        .forEach(key => {
+            const entry = object[key];
+
+            if (Array.isArray(entry) || typeof entry !== 'object') {
+                sortedObject[key] = entry;
+            } else {
+                sortedObject[key] = getSortedObject(entry);
+            }
+        });
+
+    return sortedObject;
+};
+
+const fontToPath = (family, variant) => {
+    return `/css?subset=latin-ext&family=${family.replace(/\s/g, '+')}:${variant}`;
+};
+
+
+const fetch = options => {
+    return new Promise((resolve, reject) => {
+        https.get(options, response => {
+            let result = '';
+
+            response.on('data', data => {
+                result += data;
+            });
+
+            response.on('end', end => {
+                resolve(result);
+            });
+        });
+    });
+};
+
+
+const convertFont = async({ convertedFont, family, format }, fetchOptions) => {
+    let { variants, unicodeRange } = convertedFont;
+
+    const css = await fetch(fetchOptions);
+
+    if (css) {
+        let subset = null;
+        const root = postcss.parse(css);
+        root.each(rule => {
+            if (rule.type === 'comment') {
+                subset = rule.text;
+            }
+
+            if (rule.type === 'atrule' && rule.name === 'font-face') {
+                let fontStyle = 'normal';
+                let fontWeight = '400';
+
+                rule.walkDecls('font-weight', decl => {
+                    fontWeight = decl.value;
+                });
+
+                rule.walkDecls('font-style', decl => {
+                    fontStyle = decl.value;
+                });
+                variants[fontStyle] = variants[fontStyle] || {};
+                variants[fontStyle][fontWeight] = variants[fontStyle][fontWeight] || {
+                    local: [],
+                    url: {}
+                };
+
+                rule.walkDecls('src', decl => {
+                    postcss.list.comma(decl.value).forEach(value => {
+                        value.replace(
+                            /(local|url)\((.+?)\)/g,
+                            (match, type, path) => {
+                                if (type === 'local') {
+                                    if (
+                                        variants[fontStyle][fontWeight].local.indexOf(path) === -1
+                                    ) {
+                                        variants[fontStyle][fontWeight].local.push(path);
+                                    }
+                                } else if (type === 'url') {
+                                    variants[fontStyle][fontWeight].url[format] = path;
+                                }
+                            }
+                        );
+                    });
+                });
+
+                rule.walkDecls('unicode-range', decl => {
+                        unicodeRange = {
+                            ...unicodeRange,
+                            [subset]: decl.value
+                        }
+                });
+
+                console.log('Captured', family, fontStyle, fontWeight, 'as', format,'...');
+            }
+        });
+        return {
+            ...convertedFont,
+            variants,
+            unicodeRange
+        };
+    } else {
+        console.log('Rejected', family, fontStyle, fontWeight, 'as', format,'...');
+        return null;
+    }
+};
+
+const getFetchOptions = ({ family, variants, format }) => {
+    const userAgent = userAgents[format];
+
+    const variantsList = ['eot', 'svg'].includes(format)
+        ? variants
+        : [variants.join(',')];
+
+    return variantsList.map(variant => {
+        const path = fontToPath(family, variant);
+
+        return {
+            host: 'fonts.googleapis.com',
+            path: encodeURI(path),
+            headers: {
+                'User-Agent': userAgent
+            }
+        };
+    });
 }
 
-function fontToPath(family, variant) {
-	return '/css?family=' + family.replace(/\s/g, '+') + ':' + variant;
-}
 
-function eachFont(font) {
-	var family = font.family;
-	var variants = font.variants;
+const convertFontsOptions = async (fonts) => {
+    let results = {};
 
-	delete font.family;
-	delete font.variants;
+    for (const font of fonts) {
+        const { family, variants, ...originalFont } = font;
 
-	font.variants = {};
+        const agents = Object.keys(userAgents);
 
-	exports[family] = font;
+        let convertedFont = {
+            ...originalFont,
+            variants: {},
+            unicodeRange: {}
+        };
 
-	variants.forEach(function (variant) {
-		var host = 'fonts.googleapis.com';
-		var path = fontToPath(family, variant);
+        for(const format of agents) {
+            const optionsList = getFetchOptions({ family, variants, format });
+            for (const options of optionsList) {
+                convertedFont = await convertFont({ convertedFont, family, format }, options);
+            }
+        }
+        results[family] = convertedFont;
+    };
 
-		Object.keys(userAgents).forEach(function (format) {
-			var userAgent = userAgents[format];
+    return results;
+};
 
-			var options = {
-				host: host,
-				path: path,
-				headers: {
-					'User-Agent': userAgent
-				}
-			};
-
-			promise = promise.then(function () {
-				return new Promise(function (resolve, reject) {
-					function callback(response) {
-						var css = '';
-
-						response.on('data', function (data) {
-							css += data;
-						});
-
-						response.on('end', function (end) {
-							if (response.statusCode === 200) {
-								postcssProcessor.process(css).then(function (result) {
-									result.root.eachAtRule('font-face', function (rule) {
-										var fontStyle = 'normal';
-										var fontWeight = '400';
-
-										rule.eachDecl('font-weight', function (decl) {
-											fontWeight = decl.value;
-										});
-
-										rule.eachDecl('font-style', function (decl) {
-											fontStyle = decl.value;
-										});
-
-										font.variants[fontStyle] = font.variants[fontStyle] || {};
-										font.variants[fontStyle][fontWeight] = font.variants[fontStyle][fontWeight] || {
-											local: [],
-											url: {}
-										};
-
-										rule.eachDecl('src', function (decl) {
-											postcss.list.comma(decl.value).forEach(function (value) {
-												value.replace(/(local|url)\((.+?)\)/g, function (match, type, path) {
-													if (type === 'local') {
-														if (font.variants[fontStyle][fontWeight].local.indexOf(path) === -1) {
-															font.variants[fontStyle][fontWeight].local.push(path);
-														}
-													} else if (type === 'url') {
-														font.variants[fontStyle][fontWeight].url[format] = path;
-													}
-												});
-											});
-										});
-
-										console.log('Captured', family, fontStyle, fontWeight, 'as', format, '...');
-
-										resolve();
-									});
-								});
-							} else {
-								console.log('Rejected', family, fontStyle, fontWeight, 'as', format, '...');
-
-								resolve();
-							}
-						});
-					}
-
-					http.get(options, callback);
-				});
-			});
-		});
-	});
-
-	return font;
-}
-
-function oncomplete() {
-	fs.writeFile('google-fonts.json', JSON.stringify(getSortedObject(exports), null, '\t'), function () {
-		console.log('Operation complete.');
-	});
-}
-
-fonts.forEach(eachFont);
-
-promise.then(oncomplete);
+console.time('convert');
+convertFontsOptions(fonts).then(results => {
+    fs.writeFile(
+        'google-fonts.json',
+        JSON.stringify(getSortedObject(results), null, '\t'),
+        function() {
+            console.timeEnd('convert');
+            console.log('Operation complete.');
+        }
+    );
+});
