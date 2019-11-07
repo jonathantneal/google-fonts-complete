@@ -1,3 +1,11 @@
+## 2.0.0 (2019-11-07)
+
+- Added: support of unicode-range feature
+- Fixed: reduced generation time on 50%
+- Fixed: refactoring font list generation script
+- Updated: Google Fonts base to the latest version
+
+
 ## 1.2.4 (2019-10-16)
 
 - Updated: Google Fonts base to the latest version
