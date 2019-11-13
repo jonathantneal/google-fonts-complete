@@ -26,11 +26,6 @@ const getSortedObject = object => {
     return sortedObject;
 };
 
-const fontToPath = (family, variant) => {
-    return `/css?subset=latin-ext&family=${family.replace(/\s/g, '+')}:${variant}`;
-};
-
-
 const fetch = options => {
     return new Promise((resolve, reject) => {
         https.get(options, response => {
@@ -118,28 +113,24 @@ const convertFont = async({ convertedFont, family, format }, fetchOptions) => {
     }
 };
 
-const getFetchOptions = ({ family, variants, format }) => {
+const getFetchOptions = ({ family, variants, format, pathCb }) => {
     const userAgent = userAgents[format];
 
     const variantsList = ['eot', 'svg'].includes(format)
         ? variants
         : [variants.join(',')];
 
-    return variantsList.map(variant => {
-        const path = fontToPath(family, variant);
-
-        return {
-            host: 'fonts.googleapis.com',
-            path: encodeURI(path),
-            headers: {
-                'User-Agent': userAgent
-            }
-        };
-    });
+    return variantsList.map(variant => ({
+        host: 'fonts.googleapis.com',
+        path: encodeURI(pathCb({ family, variant })),
+        headers: {
+            'User-Agent': userAgent
+        }
+    }));
 }
 
 
-const convertFontsOptions = async (fonts) => {
+const convertFontsOptions = async (fonts, pathCb) => {
     let results = {};
 
     for (const font of fonts) {
@@ -154,7 +145,7 @@ const convertFontsOptions = async (fonts) => {
         };
 
         for(const format of agents) {
-            const optionsList = getFetchOptions({ family, variants, format });
+            const optionsList = getFetchOptions({ family, variants, format, pathCb });
             for (const options of optionsList) {
                 convertedFont = await convertFont({ convertedFont, family, format }, options);
             }
@@ -166,10 +157,40 @@ const convertFontsOptions = async (fonts) => {
 };
 
 console.time('convert');
-convertFontsOptions(fonts).then(results => {
+
+Promise.all([
+    convertFontsOptions(
+        fonts,
+        ({ family, variant }) => {
+            return `/css?subset=latin-ext&family=${family.replace(/\s/g, '+')}:${variant}`;
+        }
+    ),
+    convertFontsOptions(
+        [
+            {
+                "family": "Material Icons",
+                "category": "icon",
+                "variants": [
+                    "regular",
+                ],
+                "subsets": [
+                    "latin"
+                ],
+            }
+        ],
+        () => {
+            return '/icon?family=Material+Icons';
+        }
+    )
+])
+.then(results => {
+    const combinedResults = {
+        ...results[0],
+        ...results[1]
+    }
     fs.writeFile(
         'google-fonts.json',
-        JSON.stringify(getSortedObject(results), null, '\t'),
+        JSON.stringify(getSortedObject(combinedResults), null, '\t'),
         function() {
             console.timeEnd('convert');
             console.log('Operation complete.');

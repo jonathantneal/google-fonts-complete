@@ -1,3 +1,9 @@
+## 2.1.0 (2019-11-13)
+
+- Added: support of Material Icons font
+- Updated: Google Fonts base to the latest version
+
+
 ## 2.0.0 (2019-11-07)
 
 - Added: support of unicode-range feature
