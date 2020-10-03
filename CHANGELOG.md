@@ -1,3 +1,7 @@
+## 2.1.1 (2020-10-04)
+
+- Updated: Google Fonts base to the latest version
+
 ## 2.1.0 (2019-11-13)
 
 - Added: support of Material Icons font
