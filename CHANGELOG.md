@@ -1,3 +1,7 @@
+## 2.2.0 (2021-10-19)
+
+- Fixed: Migrate to PostCSS 8.x
+
 ## 2.1.1 (2020-10-04)
 
 - Updated: Google Fonts base to the latest version
