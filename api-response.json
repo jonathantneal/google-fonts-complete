@@ -14052,8 +14052,8 @@
 			"korean",
 			"latin"
 		],
-		"version": "v13",
-		"lastModified": "2021-09-14",
+		"version": "v15",
+		"lastModified": "2021-10-28",
 		"category": "serif"
 	},
 	{
@@ -14661,8 +14661,8 @@
 			"latin-ext",
 			"vietnamese"
 		],
-		"version": "v26",
-		"lastModified": "2021-09-23",
+		"version": "v27",
+		"lastModified": "2021-10-28",
 		"category": "sans-serif"
 	},
 	{
@@ -20162,6 +20162,36 @@
 		"category": "serif"
 	},
 	{
+		"family": "Zen Antique",
+		"variants": [
+			"regular"
+		],
+		"subsets": [
+			"cyrillic",
+			"greek",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "serif"
+	},
+	{
+		"family": "Zen Antique Soft",
+		"variants": [
+			"regular"
+		],
+		"subsets": [
+			"cyrillic",
+			"greek",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "serif"
+	},
+	{
 		"family": "Zen Dots",
 		"variants": [
 			"regular"
@@ -20173,6 +20203,57 @@
 		"version": "v1",
 		"lastModified": "2021-04-12",
 		"category": "display"
+	},
+	{
+		"family": "Zen Kaku Gothic Antique",
+		"variants": [
+			"300",
+			"regular",
+			"500",
+			"700",
+			"900"
+		],
+		"subsets": [
+			"cyrillic",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "sans-serif"
+	},
+	{
+		"family": "Zen Kaku Gothic New",
+		"variants": [
+			"300",
+			"regular",
+			"500",
+			"700",
+			"900"
+		],
+		"subsets": [
+			"cyrillic",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "sans-serif"
+	},
+	{
+		"family": "Zen Kurenaido",
+		"variants": [
+			"regular"
+		],
+		"subsets": [
+			"cyrillic",
+			"greek",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "sans-serif"
 	},
 	{
 		"family": "Zen Loop",
@@ -20187,6 +20268,42 @@
 		"version": "v1",
 		"lastModified": "2021-07-01",
 		"category": "display"
+	},
+	{
+		"family": "Zen Maru Gothic",
+		"variants": [
+			"300",
+			"regular",
+			"500",
+			"700",
+			"900"
+		],
+		"subsets": [
+			"cyrillic",
+			"greek",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "sans-serif"
+	},
+	{
+		"family": "Zen Old Mincho",
+		"variants": [
+			"regular",
+			"700",
+			"900"
+		],
+		"subsets": [
+			"cyrillic",
+			"greek",
+			"japanese",
+			"latin"
+		],
+		"version": "v3",
+		"lastModified": "2021-10-21",
+		"category": "serif"
 	},
 	{
 		"family": "Zen Tokyo Zoo",
