@@ -1,4 +1,4 @@
-## 2.2.2 (2023-10-25)
+## 2.2.3 (2023-10-25)
 
 - Updated: Google Fonts base to the latest version
 - Fixed: refactoring font list generation script
