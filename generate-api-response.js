@@ -3,6 +3,9 @@ const URL = 'https://www.googleapis.com/webfonts/v1/webfonts?fields=items(catego
 const fs = require('fs');
 const https = require('https');
 
+const utils = require('./utils');
+
+
 const fetchGoogleFontsList = url => {
   return new Promise((resolve, reject) => {
     const req = https.get(url, res => {
@@ -30,6 +33,8 @@ const fetchGoogleFontsList = url => {
 }
 
 const key = process.argv[2];
+const isSeparate = process.argv[3] === 'true';
+
 
 if (key === undefined) {
   console.log('\x1b[31m', 'The API Key is required!');
@@ -38,7 +43,17 @@ if (key === undefined) {
 
 fetchGoogleFontsList(URL + key)
   .then(list => {
-      fs.writeFile('api-response.json', JSON.stringify(list, null, '\t'), function () {
-        console.log('Operation complete.');
-      });
+      if (!isSeparate) {
+          fs.writeFile('api-response.json', JSON.stringify(list, null, '\t'), function () {
+            console.log('Operation complete.');
+          });
+      } else {
+        const chunkedFonts = utils.getChunkedFonts(list);
+        for (const key in chunkedFonts) {
+            if (Object.hasOwnProperty.call(chunkedFonts, key)) {
+                const fontFamily = chunkedFonts[key];
+                fs.writeFileSync(`api-response_${key}.json`, JSON.stringify(fontFamily, null, '\t'))
+            }
+        }
+      }
   });
